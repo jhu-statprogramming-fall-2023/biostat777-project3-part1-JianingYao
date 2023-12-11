@@ -1,0 +1,38 @@
+url: ~
+template:
+  bootstrap: 5
+  bootswatch: lux
+  bslib:
+    pkgdown-nav-height: 100px
+    code_font: {google: "Fira Mono"}
+    primary: "#cd7f32"  # bronze color
+home:
+  sidebar:
+    structure: [links, license, community, citation, authors, custom, toc]
+    components:
+      custom:
+        title: Vignette contributor
+        text: Jianing Yao
+footer:
+  structure: 
+    left: [text]
+    right: built_with
+  components:
+    text: Website designed by Jianing Yao
+navbar:
+  structure:
+    left:  [articles, reference]
+    right: [search, twitter]
+  components:
+    twitter:
+      icon: fa-twitter
+      href: https://twitter.com/JNinnnngg
+      aria-label: Twitter
+
+
+
+
+
+
+
+

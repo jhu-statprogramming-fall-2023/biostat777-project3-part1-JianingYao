@@ -30,22 +30,23 @@ Kernel configured for up to 10 processors.
 Processor type: arm64e (ARM64E)
 Processors active: 0 1 2 3 4 5 6 7 8 9
 Primary memory available: 32.00 gigabytes
-Default processor set: 764 tasks, 4684 threads, 10 processors
-Load average: 2.85, Mach factor: 7.13
+Default processor set: 785 tasks, 4847 threads, 10 processors
+Load average: 3.91, Mach factor: 6.39
 /bin/machine           = unknown
 /usr/bin/oslevel       = unknown
 /bin/universe          = unknown
 
 PATH: /Users/jianingyao/opt/anaconda3/bin
+PATH: /Users/jianingyao/opt/anaconda3/bin
 PATH: /opt/homebrew/bin
 PATH: /opt/homebrew/sbin
 PATH: /usr/local/bin
-PATH: /System/Cryptexes/App/usr/bin
+PATH: /System/Volumes/Preboot/Cryptexes/App/usr/bin
 PATH: /usr/bin
 PATH: /bin
 PATH: /usr/sbin
 PATH: /sbin
-PATH: /Library/TeX/texbin
+PATH: /usr/local/texlive/2022/bin/universal-darwin
 PATH: /opt/X11/bin
 PATH: /Library/Apple/usr/bin
 PATH: /Applications/quarto/bin
@@ -56,6 +57,8 @@ PATH: /usr/ucb
 PATH: /Users/jianingyao/opt/chromedriver
 PATH: /Users/jianingyao/Applications/quarto/bin
 PATH: /usr/texbin
+PATH: /Applications/RStudio.app/Contents/Resources/app/bin/postback
+PATH: /Library/TeX/texbin
 PATH: /Applications/RStudio.app/Contents/Resources/app/bin/postback
 
 
