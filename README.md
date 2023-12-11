@@ -27,7 +27,7 @@
 `MCMCpack` (Markov Chain Monte Carlo Package) contains functions to perform Bayesian inference using posterior simulation for a number of statistical models. Most simulation is done in compiled C++ written in the Scythe Statistical Library Version 1.0.3. All models return 'coda' mcmc objects that can then be summarized using the 'coda' package. Some useful utility functions such as density functions, pseudo-random number generators for statistical distributions, a general purpose Metropolis sampling algorithm, and tools for visualization are provided.
 
 #### (Major) Functions
- **Note: functions of common models and usage are listed here. For a full list of exported functions, please refer to the [manual](https://cran.r-project.org/web/packages/MCMCpack/MCMCpack.pdf). **
+**Note: functions of common models and usage are listed here. For a full list of exported functions, please refer to the [manual](https://cran.r-project.org/web/packages/MCMCpack/MCMCpack.pdf).**
 
 | Function Name               | Description                                                               |
 |-----------------------------|---------------------------------------------------------------------------|
