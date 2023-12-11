@@ -1,7 +1,7 @@
 
 ## MCMCpack package
 
-#### Website basics
+### Website basics
 
 - Package source: https://github.com/cran/MCMCpack
 - Package website: 
@@ -12,7 +12,7 @@
   - Add website designer to the footnote.
   - Reorder elements in the navigation bar and add my twitter link on the right corner.
 
-#### Authors
+### Authors
 
 ##### Package development:
 - Andrew D. Martin <admart@umich.edu>
@@ -22,11 +22,11 @@
 ##### Vignette and website creation:
 - Jianing Yao <jyao37@jhmi.edu>
 
-#### Package description
+### Package description
 
 `MCMCpack` (Markov Chain Monte Carlo Package) contains functions to perform Bayesian inference using posterior simulation for a number of statistical models. Most simulation is done in compiled C++ written in the Scythe Statistical Library Version 1.0.3. All models return 'coda' mcmc objects that can then be summarized using the 'coda' package. Some useful utility functions such as density functions, pseudo-random number generators for statistical distributions, a general purpose Metropolis sampling algorithm, and tools for visualization are provided.
 
-#### (Major) Functions
+### (Major) Functions
 **Note: functions of common models and usage are listed here. For a full list of exported functions, please refer to the [manual](https://cran.r-project.org/web/packages/MCMCpack/MCMCpack.pdf).**
 
 | Function Name               | Description                                                               |
@@ -51,7 +51,7 @@
 | `PostProbMod`               | Calculate Posterior Probability of Model                                  |
 
 
-#### Examples
+### Examples
 ##### `MCbinomialbeta`: Monte Carlo Simulation from a Binomial Likelihood with a Beta Prior
 
 ```r
@@ -81,13 +81,13 @@ summary(posterior)
 
 ![](man/figures/example2.png)
 
-#### Compilation
+### Compilation
 
 This package (along with Scythe) uses C++ and the Standard Template Library (STL).  We suggest using of the GCC compiler 4.0 or greater.  The current package has been tested using GCC 4.0 on Linux and MacOS X. 
 
 Many thanks to Dan Pemstein for helping with all sorts of C++ issues, and to Kurt Hornik and Fritz Leisch for their help with debugging as well as their service to the R community.  We are also very grateful to Brian Ripley who provided C++ patches to fix a number of clang and Solaris issues. 
 
-#### Acknowledgments
+### Acknowledgments
 
 We gratefully acknowledge support from:
 
