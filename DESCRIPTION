@@ -27,6 +27,11 @@ Encoding: UTF-8
 Date/Publication: 2022-04-13 11:12:32 UTC
 Suggests: 
     knitr,
-    rmarkdown
+    rmarkdown,
+    dplyr,
+    lubridate,
+    purrr,
+    ggplot2,
+    tidyr
 VignetteBuilder: knitr
 LazyData: true
