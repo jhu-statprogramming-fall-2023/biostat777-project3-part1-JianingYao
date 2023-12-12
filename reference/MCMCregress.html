@@ -255,7 +255,7 @@ Analysis and Diagnostics for MCMC (CODA)'', <em>R News</em>. 6(1): 7-11.
 <span class="r-in"><span><span class="va">posterior</span>  <span class="op">&lt;-</span> <span class="fu">MCMCregress</span><span class="op">(</span><span class="va">Y</span><span class="op">~</span><span class="va">X</span>, b0<span class="op">=</span><span class="fl">0</span>, B0 <span class="op">=</span> <span class="fl">0.1</span>,</span></span>
 <span class="r-in"><span>        sigma.mu <span class="op">=</span> <span class="fl">5</span>, sigma.var <span class="op">=</span> <span class="fl">25</span>, data<span class="op">=</span><span class="va">line</span>, verbose<span class="op">=</span><span class="fl">1000</span><span class="op">)</span></span></span>
 <span class="r-in"><span><span class="fu"><a href="https://rdrr.io/r/graphics/plot.default.html" class="external-link">plot</a></span><span class="op">(</span><span class="va">posterior</span><span class="op">)</span></span></span>
-<span class="r-in"><span><span class="fu">raftery.diag</span><span class="op">(</span><span class="va">posterior</span><span class="op">)</span></span></span>
+<span class="r-in"><span><span class="fu"><a href="https://rdrr.io/pkg/coda/man/raftery.diag.html" class="external-link">raftery.diag</a></span><span class="op">(</span><span class="va">posterior</span><span class="op">)</span></span></span>
 <span class="r-in"><span><span class="fu"><a href="https://rdrr.io/r/base/summary.html" class="external-link">summary</a></span><span class="op">(</span><span class="va">posterior</span><span class="op">)</span></span></span>
 <span class="r-in"><span><span class="op">}</span></span></span>
 <span class="r-in"><span></span></span>

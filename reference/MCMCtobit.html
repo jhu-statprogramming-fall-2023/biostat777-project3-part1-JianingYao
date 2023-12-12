@@ -261,7 +261,7 @@ variables." <em>Econometrica.</em> 26:24-36.</p>
 <span class="r-in"><span><span class="va">tfit.mcmc</span> <span class="op">&lt;-</span> <span class="fu">MCMCtobit</span><span class="op">(</span><span class="va">durable</span> <span class="op">~</span> <span class="va">age</span> <span class="op">+</span> <span class="va">quant</span>, data<span class="op">=</span><span class="va">tobin</span>, mcmc<span class="op">=</span><span class="fl">30000</span>,</span></span>
 <span class="r-in"><span>                        verbose<span class="op">=</span><span class="fl">1000</span><span class="op">)</span></span></span>
 <span class="r-in"><span><span class="fu"><a href="https://rdrr.io/r/graphics/plot.default.html" class="external-link">plot</a></span><span class="op">(</span><span class="va">tfit.mcmc</span><span class="op">)</span></span></span>
-<span class="r-in"><span><span class="fu">raftery.diag</span><span class="op">(</span><span class="va">tfit.mcmc</span><span class="op">)</span></span></span>
+<span class="r-in"><span><span class="fu"><a href="https://rdrr.io/pkg/coda/man/raftery.diag.html" class="external-link">raftery.diag</a></span><span class="op">(</span><span class="va">tfit.mcmc</span><span class="op">)</span></span></span>
 <span class="r-in"><span><span class="fu"><a href="https://rdrr.io/r/base/summary.html" class="external-link">summary</a></span><span class="op">(</span><span class="va">tfit.mcmc</span><span class="op">)</span></span></span>
 <span class="r-in"><span><span class="op">}</span></span></span>
 <span class="r-in"><span></span></span>

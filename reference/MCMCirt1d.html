@@ -301,7 +301,7 @@ Models."  Stanford University, typescript.</p>
 <span class="r-in"><span>                   B0.alpha<span class="op">=</span><span class="fl">.2</span>, B0.beta<span class="op">=</span><span class="fl">.2</span>,</span></span>
 <span class="r-in"><span>                   burnin<span class="op">=</span><span class="fl">500</span>, mcmc<span class="op">=</span><span class="fl">100000</span>, thin<span class="op">=</span><span class="fl">20</span>, verbose<span class="op">=</span><span class="fl">500</span>,</span></span>
 <span class="r-in"><span>                   store.item<span class="op">=</span><span class="cn">TRUE</span><span class="op">)</span></span></span>
-<span class="r-in"><span>   <span class="fu">geweke.diag</span><span class="op">(</span><span class="va">posterior1</span><span class="op">)</span></span></span>
+<span class="r-in"><span>   <span class="fu"><a href="https://rdrr.io/pkg/coda/man/geweke.diag.html" class="external-link">geweke.diag</a></span><span class="op">(</span><span class="va">posterior1</span><span class="op">)</span></span></span>
 <span class="r-in"><span>   <span class="fu"><a href="https://rdrr.io/r/graphics/plot.default.html" class="external-link">plot</a></span><span class="op">(</span><span class="va">posterior1</span><span class="op">)</span></span></span>
 <span class="r-in"><span>   <span class="fu"><a href="https://rdrr.io/r/base/summary.html" class="external-link">summary</a></span><span class="op">(</span><span class="va">posterior1</span><span class="op">)</span></span></span>
 <span class="r-in"><span></span></span>
@@ -311,7 +311,7 @@ Models."  Stanford University, typescript.</p>
 <span class="r-in"><span>   <span class="va">posterior2</span> <span class="op">&lt;-</span> <span class="fu">MCMCirt1d</span><span class="op">(</span><span class="va">Sen.rollcalls</span>,</span></span>
 <span class="r-in"><span>                    theta.constraints<span class="op">=</span><span class="fu"><a href="https://rdrr.io/r/base/list.html" class="external-link">list</a></span><span class="op">(</span>KENNEDY<span class="op">=</span><span class="op">-</span><span class="fl">2</span>, HELMS<span class="op">=</span><span class="fl">2</span><span class="op">)</span>,</span></span>
 <span class="r-in"><span>                    burnin<span class="op">=</span><span class="fl">2000</span>, mcmc<span class="op">=</span><span class="fl">100000</span>, thin<span class="op">=</span><span class="fl">20</span>, verbose<span class="op">=</span><span class="fl">500</span><span class="op">)</span></span></span>
-<span class="r-in"><span>   <span class="fu">geweke.diag</span><span class="op">(</span><span class="va">posterior2</span><span class="op">)</span></span></span>
+<span class="r-in"><span>   <span class="fu"><a href="https://rdrr.io/pkg/coda/man/geweke.diag.html" class="external-link">geweke.diag</a></span><span class="op">(</span><span class="va">posterior2</span><span class="op">)</span></span></span>
 <span class="r-in"><span>   <span class="fu"><a href="https://rdrr.io/r/graphics/plot.default.html" class="external-link">plot</a></span><span class="op">(</span><span class="va">posterior2</span><span class="op">)</span></span></span>
 <span class="r-in"><span>   <span class="fu"><a href="https://rdrr.io/r/base/summary.html" class="external-link">summary</a></span><span class="op">(</span><span class="va">posterior2</span><span class="op">)</span></span></span>
 <span class="r-in"><span>   <span class="op">}</span></span></span>

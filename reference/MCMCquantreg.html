@@ -239,8 +239,8 @@ Analysis and Diagnostics for MCMC (CODA)'', <em>R News</em>. 6(1): 7-11.
 <span class="r-in"><span>    mcmc<span class="op">=</span><span class="fl">50000</span>, thin<span class="op">=</span><span class="fl">10</span>, seed<span class="op">=</span><span class="fl">2</span><span class="op">)</span></span></span>
 <span class="r-in"><span><span class="fu"><a href="https://rdrr.io/r/graphics/plot.default.html" class="external-link">plot</a></span><span class="op">(</span><span class="va">posterior_50</span><span class="op">)</span></span></span>
 <span class="r-in"><span><span class="fu"><a href="https://rdrr.io/r/graphics/plot.default.html" class="external-link">plot</a></span><span class="op">(</span><span class="va">posterior_95</span><span class="op">)</span></span></span>
-<span class="r-in"><span><span class="fu">raftery.diag</span><span class="op">(</span><span class="va">posterior_50</span><span class="op">)</span></span></span>
-<span class="r-in"><span><span class="fu">autocorr.plot</span><span class="op">(</span><span class="va">posterior_95</span><span class="op">)</span></span></span>
+<span class="r-in"><span><span class="fu"><a href="https://rdrr.io/pkg/coda/man/raftery.diag.html" class="external-link">raftery.diag</a></span><span class="op">(</span><span class="va">posterior_50</span><span class="op">)</span></span></span>
+<span class="r-in"><span><span class="fu"><a href="https://rdrr.io/pkg/coda/man/autocorr.plot.html" class="external-link">autocorr.plot</a></span><span class="op">(</span><span class="va">posterior_95</span><span class="op">)</span></span></span>
 <span class="r-in"><span><span class="fu"><a href="https://rdrr.io/r/base/summary.html" class="external-link">summary</a></span><span class="op">(</span><span class="va">posterior_50</span><span class="op">)</span></span></span>
 <span class="r-in"><span><span class="fu"><a href="https://rdrr.io/r/base/summary.html" class="external-link">summary</a></span><span class="op">(</span><span class="va">posterior_95</span><span class="op">)</span></span></span>
 <span class="r-in"><span><span class="op">}</span></span></span>
