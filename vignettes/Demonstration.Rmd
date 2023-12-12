@@ -195,7 +195,7 @@ ggplot(data = df_bayes, aes(x = weekly_gross, y = fitted)) +
 ### Summary
 From this simple analysis, average ticket price, percentage of theatre capacity (i.e., attendence), and whether the shows are on during the holiday months can predict weekly box office gross of Broadway shows. The Bayesian approach provides another point of view to validate my assumption.
 
-### Functions: 
+### Functions
 - Data wrangling: 
   - `dplyr`: `mutate()`, `select()`, `filter()`, `arrange()`, `recode()`
   - `tidyr`: `pivot_longer()`
