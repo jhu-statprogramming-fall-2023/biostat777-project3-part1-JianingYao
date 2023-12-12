@@ -1,7 +1,7 @@
 [
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/HMMmultivariateGaussian.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:HMMmultivariateGaussian.cc@627@macro@HMMMULTIVARIATEGAUSSIAN_CC",
@@ -34,20 +34,20 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMultivariateGaussian_impl#&>@N@scythe@ST>1#T@rng1t0.0#I#I#I#&1I#S3_#S3_#S3_#S3_#S3_#I#I#I#I#d#S3_#S3_#1d#1d#S3_#S3_#&I#S4_#&d#S5_#I#v#",
+                "usr": "c:@FT@>1#TMultivariateGaussian_impl#&>@N@scythe@ST>1#T@rng1t0.0#I#I#I#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#&1$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#S7_#S7_#S7_#I#I#I#I#d#S7_#S7_#1d#1d#S7_#S7_#&S8_#S9_#&d#S10_#I#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MultivariateGaussian_impl(rng<RNGTYPE> &, int, int, int, const int &, const int &, const int &, const int &, const int &, const int &, int, int, int, int, double, const int &, const int &, const double, const double, const int &, const int &, int &, int &, double &, double &, int)",
+                "name": "MultivariateGaussian_impl(rng<RNGTYPE> &, int, int, int, const Matrix<int> &, const Matrix<int> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, int, int, int, int, double, const Matrix<> &, const Matrix<> &, const double, const double, const Matrix<> &, const Matrix<> &, Matrix<> &, Matrix<> &, double &, double &, int)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/HMMmultivariateGaussian.cc",
                 "line": 53,
                 "column": 6,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#THMMmultivariateGaussian_impl#&>@N@scythe@ST>1#T@rng1t0.0#I#I#I#I#&1I#S3_#S3_#S3_#S3_#S3_#I#I#I#I#&I#d#S3_#S3_#1d#1d#S3_#S3_#S3_#S4_#S4_#S4_#S4_#S4_#&d#S5_#I#v#",
+                "usr": "c:@FT@>1#THMMmultivariateGaussian_impl#&>@N@scythe@ST>1#T@rng1t0.0#I#I#I#I#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#&1$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#S7_#S7_#S7_#I#I#I#I#&S8_#d#S7_#S7_#1d#1d#S7_#S7_#S7_#S9_#S9_#S9_#S9_#S9_#&d#S10_#I#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "HMMmultivariateGaussian_impl(rng<RNGTYPE> &, int, int, int, int, const int &, const int &, const int &, const int &, const int &, const int &, int, int, int, int, int &, double, const int &, const int &, const double, const double, const int &, const int &, const int &, int &, int &, int &, int &, int &, double &, double &, int)",
+                "name": "HMMmultivariateGaussian_impl(rng<RNGTYPE> &, int, int, int, int, const Matrix<int> &, const Matrix<int> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, int, int, int, int, Matrix<> &, double, const Matrix<> &, const Matrix<> &, const double, const double, const Matrix<> &, const Matrix<> &, const Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, double &, double &, int)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/HMMmultivariateGaussian.cc",
                 "line": 290,
                 "column": 6,
@@ -58,7 +58,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCdynamicEI.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:MCMCdynamicEI.cc@951@macro@MCMCDYNAMICEI_CC",
@@ -111,10 +111,10 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMCdynamicEI_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1I#S3_#S3_#S3_#S3_#d#d#d#d#i#i#i#i#i#&I#v#",
+                "usr": "c:@FT@>1#TMCMCdynamicEI_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#S3_#S3_#S3_#d#d#d#d#i#i#i#i#i#&$@N@scythe@S@Matrix>#d#VS5_1#VS6_0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMCdynamicEI_impl(rng<RNGTYPE> &, const int &, const int &, const int &, const int &, const int &, double, double, double, double, unsigned int, unsigned int, unsigned int, unsigned int, unsigned int, int &)",
+                "name": "MCMCdynamicEI_impl(rng<RNGTYPE> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, double, double, double, double, unsigned int, unsigned int, unsigned int, unsigned int, unsigned int, Matrix<double, Row> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCdynamicEI.cc",
                 "line": 210,
                 "column": 6,
@@ -125,43 +125,43 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
-                "usr": "c:@FT@>1#TNormNormregress_beta_draw#&1I#S0_#S0_#S0_#d#&>@N@scythe@ST>1#T@rng1t0.0#I#",
+                "usr": "c:@FT@>1#TNormNormregress_beta_draw#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S0_#S0_#S0_#d#&>@N@scythe@ST>1#T@rng1t0.0#S1_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "NormNormregress_beta_draw(const int &, const int &, const int &, const int &, double, rng<RNGTYPE> &)",
+                "name": "NormNormregress_beta_draw(const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, double, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 55,
                 "column": 1,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TNormIGregress_sigma2_draw#&1I#S0_#S0_#d#d#&>@N@scythe@ST>1#T@rng1t0.0#d#",
+                "usr": "c:@FT@>1#TNormIGregress_sigma2_draw#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S0_#S0_#d#d#&>@N@scythe@ST>1#T@rng1t0.0#d#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "NormIGregress_sigma2_draw(const int &, const int &, const int &, double, double, rng<RNGTYPE> &)",
+                "name": "NormIGregress_sigma2_draw(const Matrix<> &, const Matrix<> &, const Matrix<> &, double, double, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 77,
                 "column": 1,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TALaplaceNormregress_beta_draw#d#&1I#S0_#S0_#S0_#S0_#&>@N@scythe@ST>1#T@rng1t0.0#I#",
+                "usr": "c:@FT@>1#TALaplaceNormregress_beta_draw#d#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S0_#S0_#S0_#S0_#&>@N@scythe@ST>1#T@rng1t0.0#S1_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "ALaplaceNormregress_beta_draw(double, const int &, const int &, const int &, const int &, const int &, rng<RNGTYPE> &)",
+                "name": "ALaplaceNormregress_beta_draw(double, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 97,
                 "column": 1,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TALaplaceIGaussregress_weights_draw#&1I#&>@N@scythe@ST>1#T@rng1t0.0#I#",
+                "usr": "c:@FT@>1#TALaplaceIGaussregress_weights_draw#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&>@N@scythe@ST>1#T@rng1t0.0#S1_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "ALaplaceIGaussregress_weights_draw(const int &, rng<RNGTYPE> &)",
+                "name": "ALaplaceIGaussregress_weights_draw(const Matrix<> &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 145,
                 "column": 1,
@@ -178,30 +178,30 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TQR_SSVS_covariate_trials_draw_absent#&1I#S0_#S0_#S0_#i#S0_#d#d#d#&>@N@scythe@ST>1#T@rng1t0.0#$@S@COV_TRIAL#",
+                "usr": "c:@FT@>1#TQR_SSVS_covariate_trials_draw_absent#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S0_#S0_#S0_#i#S0_#d#d#d#&>@N@scythe@ST>1#T@rng1t0.0#$@S@COV_TRIAL#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "QR_SSVS_covariate_trials_draw_absent(const int &, const int &, const int &, const int &, unsigned int, const int &, double, double, double, rng<RNGTYPE> &)",
+                "name": "QR_SSVS_covariate_trials_draw_absent(const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, unsigned int, const Matrix<> &, double, double, double, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 185,
                 "column": 1,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TQR_SSVS_covariate_trials_draw_present#&1I#i#i#d#d#d#&>@N@scythe@ST>1#T@rng1t0.0#$@S@COV_TRIAL#",
+                "usr": "c:@FT@>1#TQR_SSVS_covariate_trials_draw_present#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#i#i#d#d#d#&>@N@scythe@ST>1#T@rng1t0.0#$@S@COV_TRIAL#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "QR_SSVS_covariate_trials_draw_present(const int &, unsigned int, unsigned int, double, double, double, rng<RNGTYPE> &)",
+                "name": "QR_SSVS_covariate_trials_draw_present(const Matrix<> &, unsigned int, unsigned int, double, double, double, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 295,
                 "column": 1,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TQR_SSVS_beta_draw#&1I#&>@N@scythe@ST>1#T@rng1t0.0#I#",
+                "usr": "c:@FT@>1#TQR_SSVS_beta_draw#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&>@N@scythe@ST>1#T@rng1t0.0#S1_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "QR_SSVS_beta_draw(const int &, rng<RNGTYPE> &)",
+                "name": "QR_SSVS_beta_draw(const Matrix<> &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 363,
                 "column": 1,
@@ -218,120 +218,120 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TQR_SSVS_lambda_draw#&1I#S0_#i#i#&>@N@scythe@ST>1#T@rng1t0.0#I#",
+                "usr": "c:@FT@>1#TQR_SSVS_lambda_draw#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S0_#i#i#&>@N@scythe@ST>1#T@rng1t0.0#S1_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "QR_SSVS_lambda_draw(const int &, const int &, unsigned int, unsigned int, rng<RNGTYPE> &)",
+                "name": "QR_SSVS_lambda_draw(const Matrix<> &, const Matrix<> &, unsigned int, unsigned int, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 395,
                 "column": 1,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tirt_Z_update1#&I#&1I#S1_#S1_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#Tirt_Z_update1#&$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1$@N@scythe@S@Matrix>#I#VS2_0#VS3_0#&1S1_#S6_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "irt_Z_update1(int &, const int &, const int &, const int &, rng<RNGTYPE> &)",
+                "name": "irt_Z_update1(Matrix<> &, const Matrix<int> &, const Matrix<> &, const Matrix<> &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 431,
                 "column": 6,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tirt_eta_update1#&I#&1I#S1_#S1_#S1_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#Tirt_eta_update1#&$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1S1_#S4_#S4_#S4_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "irt_eta_update1(int &, const int &, const int &, const int &, const int &, rng<RNGTYPE> &)",
+                "name": "irt_eta_update1(Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 456,
                 "column": 6,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tirt_theta_update1#&I#&1I#S1_#d#d#S1_#S1_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#Tirt_theta_update1#&$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1S1_#S4_#d#d#S4_#S4_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "irt_theta_update1(int &, const int &, const int &, double, double, const int &, const int &, rng<RNGTYPE> &)",
+                "name": "irt_theta_update1(Matrix<> &, const Matrix<> &, const Matrix<> &, double, double, const Matrix<> &, const Matrix<> &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 496,
                 "column": 6,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tpaircompare_Ystar_update#&I#&1I#S1_#S1_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#Tpaircompare_Ystar_update#&$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1$@N@scythe@S@Matrix>#i#VS2_0#VS3_0#&1S1_#S6_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "paircompare_Ystar_update(int &, const int &, const int &, const int &, rng<RNGTYPE> &)",
+                "name": "paircompare_Ystar_update(Matrix<> &, const Matrix<unsigned int> &, const Matrix<> &, const Matrix<> &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 549,
                 "column": 6,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tpaircompare_theta_update#&I#&1I#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#Tpaircompare_theta_update#&$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1S1_#&1$@N@scythe@S@Matrix>#i#VS2_0#VS3_0#S4_#S5_#S4_#S4_#&1$@N@std@N@__1@S@vector>#$@N@std@N@__1@S@vector>#*d#$@N@std@N@__1@S@allocator>#S10_#$@N@std@N@__1@S@allocator>#S9_#S7_#S7_#&1$@N@std@N@__1@S@vector>#$@N@std@N@__1@S@vector>#d#$@N@std@N@__1@S@allocator>#d#$@N@std@N@__1@S@allocator>#S15_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "paircompare_theta_update(int &, const int &, const int &, const int &, const int &, const int &, const int &, const int &, const int &, const int &, const int &, rng<RNGTYPE> &)",
+                "name": "paircompare_theta_update(Matrix<> &, const Matrix<> &, const Matrix<unsigned int> &, const Matrix<> &, const Matrix<unsigned int> &, const Matrix<> &, const Matrix<> &, const vector<vector<double *>> &, const vector<vector<double *>> &, const vector<vector<double *>> &, const vector<vector<double>> &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 580,
                 "column": 6,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tpaircompare_alpha_update#&I#&1I#S1_#S1_#&1d#S2_#S1_#S1_#S1_#S1_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#Tpaircompare_alpha_update#&$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1S1_#&1$@N@scythe@S@Matrix>#i#VS2_0#VS3_0#S4_#&1d#S7_#S5_#&1$@N@std@N@__1@S@vector>#$@N@std@N@__1@S@vector>#*d#$@N@std@N@__1@S@allocator>#S11_#$@N@std@N@__1@S@allocator>#S10_#S8_#S8_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "paircompare_alpha_update(int &, const int &, const int &, const int &, const double &, const double &, const int &, const int &, const int &, const int &, rng<RNGTYPE> &)",
+                "name": "paircompare_alpha_update(Matrix<> &, const Matrix<> &, const Matrix<unsigned int> &, const Matrix<> &, const double &, const double &, const Matrix<unsigned int> &, const vector<vector<double *>> &, const vector<vector<double *>> &, const vector<vector<double *>> &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 637,
                 "column": 6,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TNormNormfactanal_phi_draw#&I#&1I#S1_#S1_#S1_#S1_#S1_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#TNormNormfactanal_phi_draw#&$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1S1_#S4_#S4_#S4_#&1I#S5_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "NormNormfactanal_phi_draw(int &, const int &, const int &, const int &, const int &, const int &, const int &, rng<RNGTYPE> &)",
+                "name": "NormNormfactanal_phi_draw(Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const int &, const int &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 690,
                 "column": 1,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TNormIGfactanal_Psi_draw#&I#&1I#S1_#S1_#S1_#S1_#S1_#S1_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#TNormIGfactanal_Psi_draw#&$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1S1_#S4_#S4_#S4_#S4_#&1I#S5_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "NormIGfactanal_Psi_draw(int &, const int &, const int &, const int &, const int &, const int &, const int &, const int &, rng<RNGTYPE> &)",
+                "name": "NormIGfactanal_Psi_draw(Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const int &, const int &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 719,
                 "column": 1,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TNormNormfactanal_Lambda_draw#&I#&1I#S1_#S1_#S1_#S1_#S1_#S1_#1i#1i#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#TNormNormfactanal_Lambda_draw#&$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1$@N@scythe@S@Matrix>#b#VS2_0#VS3_0#&1S1_#S6_#S6_#S6_#S6_#S6_#1i#1i#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "NormNormfactanal_Lambda_draw(int &, const int &, const int &, const int &, const int &, const int &, const int &, const int &, const unsigned int, const unsigned int, rng<RNGTYPE> &)",
+                "name": "NormNormfactanal_Lambda_draw(Matrix<> &, const Matrix<bool> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const unsigned int, const unsigned int, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 741,
                 "column": 1,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Thirt_theta_update1#&I#S0_#&1I#S1_#S1_#S1_#&1d#S2_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#Thirt_theta_update1#&$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S0_#&1S1_#S4_#S4_#S4_#&1d#S5_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "hirt_theta_update1(int &, int &, const int &, const int &, const int &, const int &, const double &, const double &, rng<RNGTYPE> &)",
+                "name": "hirt_theta_update1(Matrix<> &, Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double &, const double &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 881,
                 "column": 6,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Thirt_eta_update1#&I#S0_#&1I#S1_#S1_#S1_#&1d#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#Thirt_eta_update1#&$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S0_#&1S1_#S4_#S4_#S4_#&1d#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "hirt_eta_update1(int &, int &, const int &, const int &, const int &, const int &, const double &, rng<RNGTYPE> &)",
+                "name": "hirt_eta_update1(Matrix<> &, Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCfcds.h",
                 "line": 924,
                 "column": 6,
@@ -342,7 +342,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMChierBetaBinom.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:MCMChierBetaBinom.cc@920@macro@MCMCHIERBETABINOM_CC",
@@ -385,17 +385,17 @@
                 "hidden": false
             },
             {
-                "usr": "c:@F@logABfcd#&1d#S0_#&1I#S0_#S0_#",
+                "usr": "c:@F@logABfcd#&1d#S0_#&1$@N@std@N@__1@S@vector>#*1d#$@N@std@N@__1@S@allocator>#S3_#S0_#S0_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "logABfcd(const double &, const double &, const int &, const double &, const double &)",
+                "name": "logABfcd(const double &, const double &, const vector<const double *> &, const double &, const double &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMChierBetaBinom.cc",
                 "line": 76,
                 "column": 8,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tmixcangen#&1d#S0_#S0_#S0_#S0_#S0_#S0_#&>@N@scythe@ST>1#T@rng1t0.0#I#",
+                "usr": "c:@FT@>1#Tmixcangen#&1d#S0_#S0_#S0_#S0_#S0_#S0_#&>@N@scythe@ST>1#T@rng1t0.0#$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#",
                 "kind": 6,
                 "parent_name": "",
                 "name": "mixcangen(const double &, const double &, const double &, const double &, const double &, const double &, const double &, rng<RNGTYPE> &)",
@@ -419,7 +419,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMChierEI.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:MCMChierEI.cc@917@macro@MCMCHIEREI_CC",
@@ -472,10 +472,10 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMChierEI_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1I#S3_#S3_#S3_#d#d#d#d#d#d#d#d#i#i#i#i#i#&I#v#",
+                "usr": "c:@FT@>1#TMCMChierEI_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#S3_#S3_#d#d#d#d#d#d#d#d#i#i#i#i#i#&$@N@scythe@S@Matrix>#d#VS5_1#VS6_0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMChierEI_impl(rng<RNGTYPE> &, const int &, const int &, const int &, const int &, double, double, double, double, double, double, double, double, unsigned int, unsigned int, unsigned int, unsigned int, unsigned int, int &)",
+                "name": "MCMChierEI_impl(rng<RNGTYPE> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, double, double, double, double, double, double, double, double, unsigned int, unsigned int, unsigned int, unsigned int, unsigned int, Matrix<double, Row> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMChierEI.cc",
                 "line": 194,
                 "column": 6,
@@ -486,7 +486,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCirtKdHet.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:MCMCirtKdHet.cc@971@macro@MCMCIRTKDHET_CC",
@@ -509,10 +509,10 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMCirtKdHet_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1I#&I#S3_#S3_#S3_#S3_#1d#1d#b#b#b#i#i#i#i#S4_#v#",
+                "usr": "c:@FT@>1#TMCMCirtKdHet_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#&1S8_#S9_#S9_#S9_#1d#1d#b#b#b#i#i#i#i#S7_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMCirtKdHet_impl(rng<RNGTYPE> &, const int &, int &, const int &, const int &, const int &, const int &, const double, const double, bool, bool, bool, unsigned int, unsigned int, unsigned int, unsigned int, int &)",
+                "name": "MCMCirtKdHet_impl(rng<RNGTYPE> &, const Matrix<int> &, Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double, const double, bool, bool, bool, unsigned int, unsigned int, unsigned int, unsigned int, Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCirtKdHet.cc",
                 "line": 54,
                 "column": 6,
@@ -523,7 +523,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCirtKdRob.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:MCMCirtKdRob.cc@859@macro@MCMCIRTKDROB_CC",
@@ -556,100 +556,100 @@
                 "hidden": false
             },
             {
-                "usr": "c:MCMCirtKdRob.cc@F@Lambda_logfcd#&1d#&1I#S1_#S1_#S0_#S0_#S1_#S1_#S1_#S1_#S0_#S0_#S0_#S0_#S0_#S0_#S1_#S1_#",
+                "usr": "c:MCMCirtKdRob.cc@F@Lambda_logfcd#&1d#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1$@N@scythe@S@Matrix>#d#VS3_0#VS4_0#S5_#S0_#S0_#S5_#S5_#S5_#S5_#S0_#S0_#S0_#S0_#S0_#S0_#&1I#S7_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "Lambda_logfcd(const double &, const int &, const int &, const int &, const double &, const double &, const int &, const int &, const int &, const int &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &)",
+                "name": "Lambda_logfcd(const double &, const Matrix<int> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCirtKdRob.cc",
                 "line": 80,
                 "column": 15,
                 "hidden": false
             },
             {
-                "usr": "c:MCMCirtKdRob.cc@F@theta_logfcd#&1d#&1I#S1_#S1_#S0_#S0_#S1_#S1_#S1_#S1_#S0_#S0_#S0_#S0_#S0_#S0_#S1_#S1_#",
+                "usr": "c:MCMCirtKdRob.cc@F@theta_logfcd#&1d#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1$@N@scythe@S@Matrix>#d#VS3_0#VS4_0#S5_#S0_#S0_#S5_#S5_#S5_#S5_#S0_#S0_#S0_#S0_#S0_#S0_#&1I#S7_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "theta_logfcd(const double &, const int &, const int &, const int &, const double &, const double &, const int &, const int &, const int &, const int &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &)",
+                "name": "theta_logfcd(const double &, const Matrix<int> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCirtKdRob.cc",
                 "line": 162,
                 "column": 15,
                 "hidden": false
             },
             {
-                "usr": "c:MCMCirtKdRob.cc@F@delta0_logfcd#&1d#&1I#S1_#S1_#S0_#S0_#S1_#S1_#S1_#S1_#S0_#S0_#S0_#S0_#S0_#S0_#S1_#S1_#",
+                "usr": "c:MCMCirtKdRob.cc@F@delta0_logfcd#&1d#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1$@N@scythe@S@Matrix>#d#VS3_0#VS4_0#S5_#S0_#S0_#S5_#S5_#S5_#S5_#S0_#S0_#S0_#S0_#S0_#S0_#&1I#S7_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "delta0_logfcd(const double &, const int &, const int &, const int &, const double &, const double &, const int &, const int &, const int &, const int &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &)",
+                "name": "delta0_logfcd(const double &, const Matrix<int> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCirtKdRob.cc",
                 "line": 234,
                 "column": 15,
                 "hidden": false
             },
             {
-                "usr": "c:MCMCirtKdRob.cc@F@delta1_logfcd#&1d#&1I#S1_#S1_#S0_#S0_#S1_#S1_#S1_#S1_#S0_#S0_#S0_#S0_#S0_#S0_#S1_#S1_#",
+                "usr": "c:MCMCirtKdRob.cc@F@delta1_logfcd#&1d#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1$@N@scythe@S@Matrix>#d#VS3_0#VS4_0#S5_#S0_#S0_#S5_#S5_#S5_#S5_#S0_#S0_#S0_#S0_#S0_#S0_#&1I#S7_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "delta1_logfcd(const double &, const int &, const int &, const int &, const double &, const double &, const int &, const int &, const int &, const int &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &)",
+                "name": "delta1_logfcd(const double &, const Matrix<int> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCirtKdRob.cc",
                 "line": 284,
                 "column": 15,
                 "hidden": false
             },
             {
-                "usr": "c:MCMCirtKdRob.cc@FT@>1#Tdoubling#*Fd(#&1d#&1I#S3_#S3_#S2_#S2_#S3_#S3_#S3_#S3_#S2_#S2_#S2_#S2_#S2_#S2_#S3_#S3_)#S3_#S3_#S3_#S2_#S2_#S3_#S3_#S3_#S3_#S2_#S2_#S2_#S2_#S2_#S2_#S3_#S3_#S2_#S2_#S3_#&>@N@scythe@ST>1#T@rng1t0.0#&d#S7_#S3_#v#",
+                "usr": "c:MCMCirtKdRob.cc@FT@>1#Tdoubling#*Fd(#&1d#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#S7_#S2_#S2_#S7_#S7_#S7_#S7_#S2_#S2_#S2_#S2_#S2_#S2_#&1I#S9_)#S3_#S7_#S7_#S2_#S2_#S7_#S7_#S7_#S7_#S2_#S2_#S2_#S2_#S2_#S2_#S9_#S9_#S2_#S2_#S9_#&>@N@scythe@ST>1#T@rng1t0.0#&d#S13_#S9_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "doubling(double (*)(const double &, const int &, const int &, const int &, const double &, const double &, const int &, const int &, const int &, const int &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &), const int &, const int &, const int &, const double &, const double &, const int &, const int &, const int &, const int &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &, const double &, const double &, const int &, rng<RNGTYPE> &, double &, double &, const int &)",
+                "name": "doubling(double (*)(const double &, const Matrix<int> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &), const Matrix<int> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &, const double &, const double &, const int &, rng<RNGTYPE> &, double &, double &, const int &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCirtKdRob.cc",
                 "line": 337,
                 "column": 13,
                 "hidden": false
             },
             {
-                "usr": "c:MCMCirtKdRob.cc@FT@>1#TStepOut#*Fd(#&1d#&1I#S3_#S3_#S2_#S2_#S3_#S3_#S3_#S3_#S2_#S2_#S2_#S2_#S2_#S2_#S3_#S3_)#S3_#S3_#S3_#S2_#S2_#S3_#S3_#S3_#S3_#S2_#S2_#S2_#S2_#S2_#S2_#S3_#S3_#S2_#S2_#S3_#&>@N@scythe@ST>1#T@rng1t0.0#&d#S7_#S3_#v#",
+                "usr": "c:MCMCirtKdRob.cc@FT@>1#TStepOut#*Fd(#&1d#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#S7_#S2_#S2_#S7_#S7_#S7_#S7_#S2_#S2_#S2_#S2_#S2_#S2_#&1I#S9_)#S3_#S7_#S7_#S2_#S2_#S7_#S7_#S7_#S7_#S2_#S2_#S2_#S2_#S2_#S2_#S9_#S9_#S2_#S2_#S9_#&>@N@scythe@ST>1#T@rng1t0.0#&d#S13_#S9_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "StepOut(double (*)(const double &, const int &, const int &, const int &, const double &, const double &, const int &, const int &, const int &, const int &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &), const int &, const int &, const int &, const double &, const double &, const int &, const int &, const int &, const int &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &, const double &, const double &, const int &, rng<RNGTYPE> &, double &, double &, const int &)",
+                "name": "StepOut(double (*)(const double &, const Matrix<int> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &), const Matrix<int> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &, const double &, const double &, const int &, rng<RNGTYPE> &, double &, double &, const int &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCirtKdRob.cc",
                 "line": 422,
                 "column": 13,
                 "hidden": false
             },
             {
-                "usr": "c:MCMCirtKdRob.cc@F@Accept#*Fd(#&1d#&1I#S3_#S3_#S2_#S2_#S3_#S3_#S3_#S3_#S2_#S2_#S2_#S2_#S2_#S2_#S3_#S3_)#S3_#S3_#S3_#S2_#S2_#S3_#S3_#S3_#S3_#S2_#S2_#S2_#S2_#S2_#S2_#S3_#S3_#S2_#S2_#S2_#S2_#S2_#S2_#",
+                "usr": "c:MCMCirtKdRob.cc@F@Accept#*Fd(#&1d#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#S7_#S2_#S2_#S7_#S7_#S7_#S7_#S2_#S2_#S2_#S2_#S2_#S2_#&1I#S9_)#S3_#S7_#S7_#S2_#S2_#S7_#S7_#S7_#S7_#S2_#S2_#S2_#S2_#S2_#S2_#S9_#S9_#S2_#S2_#S2_#S2_#S2_#S2_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "Accept(double (*)(const double &, const int &, const int &, const int &, const double &, const double &, const int &, const int &, const int &, const int &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &), const int &, const int &, const int &, const double &, const double &, const int &, const int &, const int &, const int &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &, const double &, const double &, const double &, const double &, const double &, const double &)",
+                "name": "Accept(double (*)(const double &, const Matrix<int> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &), const Matrix<int> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &, const double &, const double &, const double &, const double &, const double &, const double &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCirtKdRob.cc",
                 "line": 509,
                 "column": 13,
                 "hidden": false
             },
             {
-                "usr": "c:MCMCirtKdRob.cc@FT@>1#TshrinkageDoubling#*Fd(#&1d#&1I#S3_#S3_#S2_#S2_#S3_#S3_#S3_#S3_#S2_#S2_#S2_#S2_#S2_#S2_#S3_#S3_)#S3_#S3_#S3_#S2_#S2_#S3_#S3_#S3_#S3_#S2_#S2_#S2_#S2_#S2_#S2_#S3_#S3_#S2_#S2_#&>@N@scythe@ST>1#T@rng1t0.0#S2_#S2_#S3_#d#",
+                "usr": "c:MCMCirtKdRob.cc@FT@>1#TshrinkageDoubling#*Fd(#&1d#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#S7_#S2_#S2_#S7_#S7_#S7_#S7_#S2_#S2_#S2_#S2_#S2_#S2_#&1I#S9_)#S3_#S7_#S7_#S2_#S2_#S7_#S7_#S7_#S7_#S2_#S2_#S2_#S2_#S2_#S2_#S9_#S9_#S2_#S2_#&>@N@scythe@ST>1#T@rng1t0.0#S2_#S2_#S9_#d#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "shrinkageDoubling(double (*)(const double &, const int &, const int &, const int &, const double &, const double &, const int &, const int &, const int &, const int &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &), const int &, const int &, const int &, const double &, const double &, const int &, const int &, const int &, const int &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &, const double &, const double &, rng<RNGTYPE> &, const double &, const double &, const int &)",
+                "name": "shrinkageDoubling(double (*)(const double &, const Matrix<int> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &), const Matrix<int> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &, const double &, const double &, rng<RNGTYPE> &, const double &, const double &, const int &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCirtKdRob.cc",
                 "line": 581,
                 "column": 15,
                 "hidden": false
             },
             {
-                "usr": "c:MCMCirtKdRob.cc@FT@>1#TshrinkageStep#*Fd(#&1d#&1I#S3_#S3_#S2_#S2_#S3_#S3_#S3_#S3_#S2_#S2_#S2_#S2_#S2_#S2_#S3_#S3_)#S3_#S3_#S3_#S2_#S2_#S3_#S3_#S3_#S3_#S2_#S2_#S2_#S2_#S2_#S2_#S3_#S3_#S2_#S2_#&>@N@scythe@ST>1#T@rng1t0.0#S2_#S2_#S3_#d#",
+                "usr": "c:MCMCirtKdRob.cc@FT@>1#TshrinkageStep#*Fd(#&1d#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#S7_#S2_#S2_#S7_#S7_#S7_#S7_#S2_#S2_#S2_#S2_#S2_#S2_#&1I#S9_)#S3_#S7_#S7_#S2_#S2_#S7_#S7_#S7_#S7_#S2_#S2_#S2_#S2_#S2_#S2_#S9_#S9_#S2_#S2_#&>@N@scythe@ST>1#T@rng1t0.0#S2_#S2_#S9_#d#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "shrinkageStep(double (*)(const double &, const int &, const int &, const int &, const double &, const double &, const int &, const int &, const int &, const int &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &), const int &, const int &, const int &, const double &, const double &, const int &, const int &, const int &, const int &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &, const double &, const double &, rng<RNGTYPE> &, const double &, const double &, const int &)",
+                "name": "shrinkageStep(double (*)(const double &, const Matrix<int> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &), const Matrix<int> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const double &, const double &, const double &, const double &, const int &, const int &, const double &, const double &, rng<RNGTYPE> &, const double &, const double &, const int &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCirtKdRob.cc",
                 "line": 668,
                 "column": 15,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMCirtKdRob_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1I#&I#S4_#S3_#S3_#S3_#S3_#S3_#S3_#*1I#S5_#S5_#S5_#S5_#*1d#S5_#S6_#S5_#S6_#S5_#S6_#S5_#S6_#S6_#S6_#S6_#S6_#S6_#S6_#S6_#S5_#S5_#*d#S5_#S5_#v#",
+                "usr": "c:@FT@>1#TMCMCirtKdRob_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#S7_#&1S8_#S9_#S9_#S9_#S9_#S9_#*1I#S10_#S10_#S10_#S10_#*1d#S10_#S11_#S10_#S11_#S10_#S11_#S10_#S11_#S11_#S11_#S11_#S11_#S11_#S11_#S11_#S10_#S10_#*d#S10_#S10_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMCirtKdRob_impl(rng<RNGTYPE> &, const int &, int &, int &, const int &, const int &, const int &, const int &, const int &, const int &, const int *, const int *, const int *, const int *, const int *, const double *, const int *, const double *, const int *, const double *, const int *, const double *, const int *, const double *, const double *, const double *, const double *, const double *, const double *, const double *, const double *, const int *, const int *, double *, const int *, const int *)",
+                "name": "MCMCirtKdRob_impl(rng<RNGTYPE> &, const Matrix<int> &, Matrix<> &, Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const int *, const int *, const int *, const int *, const int *, const double *, const int *, const double *, const int *, const double *, const int *, const double *, const int *, const double *, const double *, const double *, const double *, const double *, const double *, const double *, const double *, const int *, const int *, double *, const int *, const int *)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCirtKdRob.cc",
                 "line": 759,
                 "column": 6,
@@ -660,7 +660,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMClogituserprior.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:MCMClogituserprior.cc@961@macro@MCMCLOGITUSERPRIOR_CC",
@@ -683,20 +683,20 @@
                 "hidden": false
             },
             {
-                "usr": "c:MCMClogituserprior.cc@F@logit_loglike#&1I#S0_#S0_#",
+                "usr": "c:MCMClogituserprior.cc@F@logit_loglike#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S0_#S0_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "logit_loglike(const int &, const int &, const int &)",
+                "name": "logit_loglike(const Matrix<double> &, const Matrix<double> &, const Matrix<double> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMClogituserprior.cc",
                 "line": 68,
                 "column": 15,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMClogituserprior_impl#&>@N@scythe@ST>1#T@rng1t0.0#*$@S@SEXPREC#S3_#S3_#i#i#i#i#b#&1I#S5_#S5_#&S3_#v#",
+                "usr": "c:@FT@>1#TMCMClogituserprior_impl#&>@N@scythe@ST>1#T@rng1t0.0#*$@S@SEXPREC#S3_#S3_#i#i#i#i#b#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S5_#S5_#&S3_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMClogituserprior_impl(rng<RNGTYPE> &, SEXP, SEXP, SEXP, unsigned int, unsigned int, unsigned int, unsigned int, bool, const int &, const int &, const int &, SEXP &)",
+                "name": "MCMClogituserprior_impl(rng<RNGTYPE> &, SEXP, SEXP, SEXP, unsigned int, unsigned int, unsigned int, unsigned int, bool, const Matrix<> &, const Matrix<> &, const Matrix<> &, SEXP &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMClogituserprior.cc",
                 "line": 83,
                 "column": 6,
@@ -707,7 +707,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCmetrop1R.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:MCMCmetrop1R.cc@897@macro@MCMCMETROP1R_CC",
@@ -730,10 +730,10 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMCmetrop1R_impl#&>@N@scythe@ST>1#T@rng1t0.0#&*$@S@SEXPREC#S3_#S3_#i#i#i#i#b#&1I#S3_#v#",
+                "usr": "c:@FT@>1#TMCMCmetrop1R_impl#&>@N@scythe@ST>1#T@rng1t0.0#&*$@S@SEXPREC#S3_#S3_#i#i#i#i#b#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMCmetrop1R_impl(rng<RNGTYPE> &, SEXP &, SEXP &, SEXP &, unsigned int, unsigned int, unsigned int, unsigned int, bool, const int &, SEXP &)",
+                "name": "MCMCmetrop1R_impl(rng<RNGTYPE> &, SEXP &, SEXP &, SEXP &, unsigned int, unsigned int, unsigned int, unsigned int, bool, const Matrix<> &, SEXP &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCmetrop1R.cc",
                 "line": 69,
                 "column": 6,
@@ -744,7 +744,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCmixfactanal.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:MCMCmixfactanal.cc@968@macro@MCMCMIXFACTANAL_CC",
@@ -767,10 +767,10 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMCmixfactanal_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1I#S3_#&I#S4_#S3_#S3_#S4_#S4_#S3_#S3_#S3_#S3_#S3_#*1d#b#b#i#i#i#i#S4_#S4_#v#",
+                "usr": "c:@FT@>1#TMCMCmixfactanal_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#&S8_#S9_#S7_#S7_#S9_#S9_#S7_#S7_#S7_#S7_#S7_#*1d#b#b#i#i#i#i#&S4_#S9_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMCmixfactanal_impl(rng<RNGTYPE> &, const int &, const int &, int &, int &, const int &, const int &, int &, int &, const int &, const int &, const int &, const int &, const int &, const double *, bool, bool, unsigned int, unsigned int, unsigned int, unsigned int, int &, int &)",
+                "name": "MCMCmixfactanal_impl(rng<RNGTYPE> &, const Matrix<int> &, const Matrix<> &, Matrix<> &, Matrix<> &, const Matrix<> &, const Matrix<> &, Matrix<> &, Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double *, bool, bool, unsigned int, unsigned int, unsigned int, unsigned int, Matrix<int> &, Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCmixfactanal.cc",
                 "line": 56,
                 "column": 6,
@@ -781,13 +781,13 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCmnl.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
-                "usr": "c:@F@mnl_logpost#&1I#S0_#S0_#S0_#S0_#",
+                "usr": "c:@F@mnl_logpost#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S0_#S0_#S0_#S0_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "mnl_logpost(const int &, const int &, const int &, const int &, const int &)",
+                "name": "mnl_logpost(const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCmnl.h",
                 "line": 41,
                 "column": 1,
@@ -798,7 +798,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCmnlMH.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:MCMCmnlMH.cc@1149@macro@MCMCMNLMH_CC",
@@ -811,20 +811,20 @@
                 "hidden": false
             },
             {
-                "usr": "c:MCMCmnlMH.cc@F@lnmulttdens#&1I#S0_#S0_#&1d#",
+                "usr": "c:MCMCmnlMH.cc@F@lnmulttdens#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S0_#S0_#&1d#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "lnmulttdens(const int &, const int &, const int &, const double &)",
+                "name": "lnmulttdens(const Matrix<> &, const Matrix<> &, const Matrix<> &, const double &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCmnlMH.cc",
                 "line": 58,
                 "column": 22,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMCmnlMH_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1I#S3_#S3_#S3_#S3_#&I#S3_#S3_#1i#1i#1i#1i#1i#1d#S4_#v#",
+                "usr": "c:@FT@>1#TMCMCmnlMH_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#S3_#S3_#S3_#&S4_#S3_#S3_#1i#1i#1i#1i#1i#1d#S7_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMCmnlMH_impl(rng<RNGTYPE> &, const int &, const int &, const int &, const int &, const int &, int &, const int &, const int &, const unsigned int, const unsigned int, const unsigned int, const unsigned int, const unsigned int, const double, int &)",
+                "name": "MCMCmnlMH_impl(rng<RNGTYPE> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, Matrix<> &, const Matrix<> &, const Matrix<> &, const unsigned int, const unsigned int, const unsigned int, const unsigned int, const unsigned int, const double, Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCmnlMH.cc",
                 "line": 78,
                 "column": 6,
@@ -835,7 +835,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCmnlslice.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:MCMCmnlslice.cc@1005@macro@MCMCMNLSLICE_CC",
@@ -848,40 +848,40 @@
                 "hidden": false
             },
             {
-                "usr": "c:MCMCmnlslice.cc@FT@>1#Tdoubling#*Fd(#&1I#S2_#S2_#S2_#S2_)#S2_#I#d#d#I#S2_#S2_#S2_#S2_#&>@N@scythe@ST>1#T@rng1t0.0#&d#S6_#v#",
+                "usr": "c:MCMCmnlslice.cc@FT@>1#Tdoubling#*Fd(#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S2_#S2_#S2_#S2_)#S2_#I#d#d#I#S2_#S2_#S2_#S2_#&>@N@scythe@ST>1#T@rng1t0.0#&d#S9_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "doubling(double (*)(const int &, const int &, const int &, const int &, const int &), const int &, int, double, double, int, const int &, const int &, const int &, const int &, rng<RNGTYPE> &, double &, double &)",
+                "name": "doubling(double (*)(const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &), const Matrix<> &, int, double, double, int, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, rng<RNGTYPE> &, double &, double &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCmnlslice.cc",
                 "line": 58,
                 "column": 1,
                 "hidden": false
             },
             {
-                "usr": "c:MCMCmnlslice.cc@F@Accept#*Fd(#&1I#S2_#S2_#S2_#S2_)#S2_#I#d#d#d#S2_#S2_#S2_#S2_#d#d#",
+                "usr": "c:MCMCmnlslice.cc@F@Accept#*Fd(#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S2_#S2_#S2_#S2_)#S2_#I#d#d#d#S2_#S2_#S2_#S2_#d#d#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "Accept(double (*)(const int &, const int &, const int &, const int &, const int &), const int &, int, double, double, double, const int &, const int &, const int &, const int &, double, double)",
+                "name": "Accept(double (*)(const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &), const Matrix<> &, int, double, double, double, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, double, double)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCmnlslice.cc",
                 "line": 93,
                 "column": 1,
                 "hidden": false
             },
             {
-                "usr": "c:MCMCmnlslice.cc@FT@>1#Tshrinkage#*Fd(#&1I#S2_#S2_#S2_#S2_)#S2_#I#d#d#S2_#S2_#S2_#S2_#&>@N@scythe@ST>1#T@rng1t0.0#d#d#d#",
+                "usr": "c:MCMCmnlslice.cc@FT@>1#Tshrinkage#*Fd(#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S2_#S2_#S2_#S2_)#S2_#I#d#d#S2_#S2_#S2_#S2_#&>@N@scythe@ST>1#T@rng1t0.0#d#d#d#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "shrinkage(double (*)(const int &, const int &, const int &, const int &, const int &), const int &, int, double, double, const int &, const int &, const int &, const int &, rng<RNGTYPE> &, double, double)",
+                "name": "shrinkage(double (*)(const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &), const Matrix<> &, int, double, double, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, rng<RNGTYPE> &, double, double)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCmnlslice.cc",
                 "line": 134,
                 "column": 1,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMCmnlslice_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1I#S3_#S3_#S3_#S3_#&I#i#i#i#i#S4_#v#",
+                "usr": "c:@FT@>1#TMCMCmnlslice_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#S3_#S3_#S3_#&S4_#i#i#i#i#S7_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMCmnlslice_impl(rng<RNGTYPE> &, const int &, const int &, const int &, const int &, const int &, int &, unsigned int, unsigned int, unsigned int, unsigned int, int &)",
+                "name": "MCMCmnlslice_impl(rng<RNGTYPE> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, Matrix<> &, unsigned int, unsigned int, unsigned int, unsigned int, Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCmnlslice.cc",
                 "line": 164,
                 "column": 6,
@@ -892,7 +892,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCnbutil.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:MCMCnbutil.cc@31@macro@MCMCNBUTIL_CC",
@@ -925,10 +925,10 @@
                 "hidden": false
             },
             {
-                "usr": "c:@F@rho_conditional_log_density#1d#&1I#S0_#1d#1d#1d#",
+                "usr": "c:@F@rho_conditional_log_density#1d#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S0_#1d#1d#1d#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "rho_conditional_log_density(const double, const int &, const int &, const double, const double, const double)",
+                "name": "rho_conditional_log_density(const double, const Matrix<> &, const Matrix<> &, const double, const double, const double)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCnbutil.cc",
                 "line": 314,
                 "column": 8,
@@ -939,7 +939,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCnbutil.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:@S@hmm_state",
@@ -952,37 +952,37 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tinit_aux#&>@N@scythe@ST>1#T@rng1t0.0#&1I#&I#S4_#S4_#S4_#S4_#S4_#S4_#S4_#v#",
+                "usr": "c:@FT@>1#Tinit_aux#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&S4_#S7_#S7_#S7_#S7_#S7_#S7_#S7_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "init_aux(rng<RNGTYPE> &, const int &, int &, int &, int &, int &, int &, int &, int &, int &)",
+                "name": "init_aux(rng<RNGTYPE> &, const Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCnbutil.h",
                 "line": 25,
                 "column": 13,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tsample_discrete#&>@N@scythe@ST>1#T@rng1t0.0#&1I#I#",
+                "usr": "c:@FT@>1#Tsample_discrete#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#I#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "sample_discrete(rng<RNGTYPE> &, const int &)",
+                "name": "sample_discrete(rng<RNGTYPE> &, const Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCnbutil.h",
                 "line": 61,
                 "column": 12,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Trho_slice_sampler#&>@N@scythe@ST>1#T@rng1t0.0#&1I#S3_#1d#1d#1d#1d#1d#I#",
+                "usr": "c:@FT@>1#Trho_slice_sampler#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#1d#1d#1d#1d#1d#S4_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "rho_slice_sampler(rng<RNGTYPE> &, const int &, const int &, const double, const double, const double, const double, const double)",
+                "name": "rho_slice_sampler(rng<RNGTYPE> &, const Matrix<> &, const Matrix<> &, const double, const double, const double, const double, const double)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCnbutil.h",
                 "line": 88,
                 "column": 10,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Trho_prior_sampler#&>@N@scythe@ST>1#T@rng1t0.0#1d#1d#1d#1d#1d#I#",
+                "usr": "c:@FT@>1#Trho_prior_sampler#&>@N@scythe@ST>1#T@rng1t0.0#1d#1d#1d#1d#1d#$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#",
                 "kind": 6,
                 "parent_name": "",
                 "name": "rho_prior_sampler(rng<RNGTYPE> &, const double, const double, const double, const double, const double)",
@@ -992,20 +992,20 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Ttau_comp_sampler#&>@N@scythe@ST>1#T@rng1t0.0#1I#1d#&1I#S3_#S3_#S3_#S3_#S3_#1I#I#",
+                "usr": "c:@FT@>1#Ttau_comp_sampler#&>@N@scythe@ST>1#T@rng1t0.0#1I#1d#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#S3_#S3_#S3_#S3_#1I#S4_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "tau_comp_sampler(rng<RNGTYPE> &, const int, const double, const int &, const int &, const int &, const int &, const int &, const int &, const int)",
+                "name": "tau_comp_sampler(rng<RNGTYPE> &, const int, const double, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const int)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCnbutil.h",
                 "line": 238,
                 "column": 10,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tsample_conparam#&>@N@scythe@ST>1#T@rng1t0.0#d#&1I#1I#1d#1d#1I#d#",
+                "usr": "c:@FT@>1#Tsample_conparam#&>@N@scythe@ST>1#T@rng1t0.0#d#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#1I#1d#1d#1I#d#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "sample_conparam(rng<RNGTYPE> &, double, const int &, const int, const double, const double, const int)",
+                "name": "sample_conparam(rng<RNGTYPE> &, double, const Matrix<> &, const int, const double, const double, const int)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCnbutil.h",
                 "line": 290,
                 "column": 15,
@@ -1016,7 +1016,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCordfactanal.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:MCMCordfactanal.cc@974@macro@MCMCORDFACTANAL_CC",
@@ -1039,10 +1039,10 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMCordfactanal_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1I#&I#S4_#S3_#S3_#S3_#S3_#S3_#*1d#b#b#I#i#i#i#i#S4_#S4_#v#",
+                "usr": "c:@FT@>1#TMCMCordfactanal_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#S7_#&1S8_#S9_#S9_#S9_#S9_#*1d#b#b#I#i#i#i#i#&S4_#S7_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMCordfactanal_impl(rng<RNGTYPE> &, const int &, int &, int &, const int &, const int &, const int &, const int &, const int &, const double *, bool, bool, int, unsigned int, unsigned int, unsigned int, unsigned int, int &, int &)",
+                "name": "MCMCordfactanal_impl(rng<RNGTYPE> &, const Matrix<int> &, Matrix<> &, Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double *, bool, bool, int, unsigned int, unsigned int, unsigned int, unsigned int, Matrix<int> &, Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCordfactanal.cc",
                 "line": 54,
                 "column": 6,
@@ -1053,13 +1053,13 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCpack_init.c",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [],
         "hidden": false
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/MCMCrng.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:MCMCrng.h@1672@macro@MCMCPACK_PASSRNG2MODEL",
@@ -1076,10 +1076,10 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/algorithm.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
-                "usr": "c:algorithm.h@aN@T@uint",
+                "usr": "c:datablock.h@aN@T@uint",
                 "kind": 8,
                 "parent_name": "",
                 "name": "uint",
@@ -1129,7 +1129,7 @@
                 "hidden": false
             },
             {
-                "usr": "c:@N@scythe@FT@>4#T#NI#NI#Tfor_each_ij_set#&>@N@scythe@ST>3#T#NI#NI@Matrix3t0.0#t0.3#v#",
+                "usr": "c:@N@scythe@FT@>4#T#N$@N@scythe@E@matrix_order#N$@N@scythe@E@matrix_style#Tfor_each_ij_set#&>@N@scythe@ST>3#T#NS0_#NS1_@Matrix3t0.0#t0.3#v#",
                 "kind": 6,
                 "parent_name": "",
                 "name": "for_each_ij_set(Matrix<T, O, S> &, FUNCTOR)",
@@ -1139,7 +1139,7 @@
                 "hidden": false
             },
             {
-                "usr": "c:@N@scythe@FT@>8#NI#NI#T#T#NI#NI#NI#NIcopy#&1>@N@scythe@ST>3#T#NI#NI@Matrix3t0.2#&>@N@scythe@ST>3#T#NI#NI@Matrix3t0.3#v#",
+                "usr": "c:@N@scythe@FT@>8#N$@N@scythe@E@matrix_order#NS0_#T#T#NS0_#N$@N@scythe@E@matrix_style#NS0_#NS1_copy#&1>@N@scythe@ST>3#T#NS0_#NS1_@Matrix3t0.2#&>@N@scythe@ST>3#T#NS0_#NS1_@Matrix3t0.3#v#",
                 "kind": 6,
                 "parent_name": "",
                 "name": "copy(const Matrix<T, SO, SS> &, Matrix<S, DO, DS> &)",
@@ -1149,7 +1149,7 @@
                 "hidden": false
             },
             {
-                "usr": "c:@N@scythe@FT@>7#NI#NI#T#NI#NI#NI#NIcopy_recycle#&1>@N@scythe@ST>3#T#NI#NI@Matrix3t0.2#&>@N@scythe@ST>3#T#NI#NI@Matrix3S2_#v#",
+                "usr": "c:@N@scythe@FT@>7#N$@N@scythe@E@matrix_order#NS0_#T#NS0_#N$@N@scythe@E@matrix_style#NS0_#NS1_copy_recycle#&1>@N@scythe@ST>3#T#NS0_#NS1_@Matrix3t0.2#&>@N@scythe@ST>3#T#NS0_#NS1_@Matrix3S4_#v#",
                 "kind": 6,
                 "parent_name": "",
                 "name": "copy_recycle(const Matrix<T, SO, SS> &, Matrix<T, DO, DS> &)",
@@ -1173,7 +1173,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cHDPHMMnegbin.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cHDPHMMnegbin.cc@469@macro@CHDPHMMNEGBIN_CC",
@@ -1186,10 +1186,10 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tnegbin_hdp_reg_state_sampler#&>@N@scythe@ST>1#T@rng1t0.0#1I#&1I#S3_#S3_#S3_#S3_#S3_#$@S@hmm_state#",
+                "usr": "c:@FT@>1#Tnegbin_hdp_reg_state_sampler#&>@N@scythe@ST>1#T@rng1t0.0#1I#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#S3_#S3_#S3_#S3_#$@S@hmm_state#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "negbin_hdp_reg_state_sampler(rng<RNGTYPE> &, const int, const int &, const int &, const int &, const int &, const int &, const int &)",
+                "name": "negbin_hdp_reg_state_sampler(rng<RNGTYPE> &, const int, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cHDPHMMnegbin.cc",
                 "line": 44,
                 "column": 11,
@@ -1210,7 +1210,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cHDPHMMpoisson.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cHDPHMMpoisson.cc@458@macro@CHDPHMMPOISSON_CC",
@@ -1223,10 +1223,10 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tpoisson_hdp_reg_state_sampler#&>@N@scythe@ST>1#T@rng1t0.0#&1I#S3_#S3_#S3_#S3_#$@S@hmm_state#",
+                "usr": "c:@FT@>1#Tpoisson_hdp_reg_state_sampler#&>@N@scythe@ST>1#T@rng1t0.0#&1I#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S4_#S4_#S4_#$@S@hmm_state#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "poisson_hdp_reg_state_sampler(rng<RNGTYPE> &, const int &, const int &, const int &, const int &, const int &)",
+                "name": "poisson_hdp_reg_state_sampler(rng<RNGTYPE> &, const int &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cHDPHMMpoisson.cc",
                 "line": 43,
                 "column": 11,
@@ -1247,7 +1247,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cHDPHSMMnegbin.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cHDPHSMMnegbin.cc@442@macro@CHDPHSMMNEGBIN_CC",
@@ -1270,7 +1270,7 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>5#NI#NI#T#NI#NIcumsumc#&1>@N@scythe@ST>3#T#NI#NI@Matrix3t0.2#>@N@scythe@ST>3#T#NI#NI@Matrix3S2_#",
+                "usr": "c:@FT@>5#N$@N@scythe@E@matrix_order#N$@N@scythe@E@matrix_style#T#NS0_#NS1_cumsumc#&1>@N@scythe@ST>3#T#NS0_#NS1_@Matrix3t0.2#>@N@scythe@ST>3#T#NS0_#NS1_@Matrix3S4_#",
                 "kind": 6,
                 "parent_name": "",
                 "name": "cumsumc(const Matrix<T, PO, PS> &)",
@@ -1280,7 +1280,7 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>3#T#NI#NIcumsumc#&1>@N@scythe@ST>3#T#NI#NI@Matrix3t0.0#I#",
+                "usr": "c:@FT@>3#T#N$@N@scythe@E@matrix_order#N$@N@scythe@E@matrix_stylecumsumc#&1>@N@scythe@ST>3#T#NS0_#NS1_@Matrix3t0.0#>@N@scythe@ST>3#T#NS0_#NS1_@Matrix3S4_VS1_0#",
                 "kind": 6,
                 "parent_name": "",
                 "name": "cumsumc(const Matrix<T, O, S> &)",
@@ -1290,10 +1290,10 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tnegbin_hdphsmm_reg_state_sampler#&>@N@scythe@ST>1#T@rng1t0.0#1I#&1I#S3_#S3_#S3_#S3_#S3_#S3_#1d#$@S@hsmm_state#",
+                "usr": "c:@FT@>1#Tnegbin_hdphsmm_reg_state_sampler#&>@N@scythe@ST>1#T@rng1t0.0#1I#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#S3_#S3_#S3_#S3_#S3_#1d#$@S@hsmm_state#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "negbin_hdphsmm_reg_state_sampler(rng<RNGTYPE> &, const int, const int &, const int &, const int &, const int &, const int &, const int &, const int &, const double)",
+                "name": "negbin_hdphsmm_reg_state_sampler(rng<RNGTYPE> &, const int, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cHDPHSMMnegbin.cc",
                 "line": 79,
                 "column": 12,
@@ -1314,7 +1314,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cHMMpanelFE.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cHMMpanelFE.cc@393@macro@CHMMPANELFE_CC",
@@ -1337,20 +1337,20 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Thetero_state_sampler#&>@N@scythe@ST>1#T@rng1t0.0#1I#1I#&1I#S3_#S3_#S3_#I#",
+                "usr": "c:@FT@>1#Thetero_state_sampler#&>@N@scythe@ST>1#T@rng1t0.0#1I#1I#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#S3_#S3_#$@N@scythe@S@Matrix>#I#VS5_0#VS6_0#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "hetero_state_sampler(rng<RNGTYPE> &, const int, const int, const int &, const int &, const int &, const int &)",
+                "name": "hetero_state_sampler(rng<RNGTYPE> &, const int, const int, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cHMMpanelFE.cc",
                 "line": 44,
                 "column": 13,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#THMMpanelFE_impl#&>@N@scythe@ST>1#T@rng1t0.0#I#I#I#I#&1I#I#S3_#S3_#S3_#I#I#I#I#&I#d#S4_#S3_#S3_#1d#1d#1d#1d#S3_#S3_#S3_#S4_#S4_#S4_#S4_#v#",
+                "usr": "c:@FT@>1#THMMpanelFE_impl#&>@N@scythe@ST>1#T@rng1t0.0#I#I#I#I#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#I#&1$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#S7_#S3_#I#I#I#I#&S8_#d#S9_#S7_#S7_#1d#1d#1d#1d#S7_#S7_#S7_#S9_#S9_#S9_#S9_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "HMMpanelFE_impl(rng<RNGTYPE> &, int, int, int, int, const int &, int, const int &, const int &, const int &, int, int, int, int, int &, double, int &, const int &, const int &, const double, const double, const double, const double, const int &, const int &, const int &, int &, int &, int &, int &)",
+                "name": "HMMpanelFE_impl(rng<RNGTYPE> &, int, int, int, int, const Matrix<int> &, int, const Matrix<> &, const Matrix<> &, const Matrix<int> &, int, int, int, int, Matrix<> &, double, Matrix<> &, const Matrix<> &, const Matrix<> &, const double, const double, const double, const double, const Matrix<> &, const Matrix<> &, const Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cHMMpanelFE.cc",
                 "line": 109,
                 "column": 6,
@@ -1361,7 +1361,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cHMMpanelRE.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cHMMpanelRE.cc@762@macro@CHMMPANELRE_CC",
@@ -1384,10 +1384,10 @@
                 "hidden": false
             },
             {
-                "usr": "c:cHMMpanelRE.cc@F@lndwish#&1I#I#S0_#",
+                "usr": "c:cHMMpanelRE.cc@F@lndwish#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#I#S0_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "lndwish(const int &, int, const int &)",
+                "name": "lndwish(const Matrix<> &, int, const Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cHMMpanelRE.cc",
                 "line": 44,
                 "column": 15,
@@ -1404,20 +1404,20 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TGaussianPanelRE_impl#&>@N@scythe@ST>1#T@rng1t0.0#1I#I#I#&1I#S3_#S3_#S3_#S3_#I#I#I#I#1d#&I#S3_#S3_#1d#1d#I#S3_#S3_#S3_#S4_#S4_#S4_#&d#S5_#I#v#",
+                "usr": "c:@FT@>1#TGaussianPanelRE_impl#&>@N@scythe@ST>1#T@rng1t0.0#1I#I#I#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#&1$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#S7_#S7_#I#I#I#I#1d#&S8_#S7_#S7_#1d#1d#I#S7_#S7_#S7_#S9_#S9_#S9_#&d#S10_#I#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "GaussianPanelRE_impl(rng<RNGTYPE> &, const int, int, int, const int &, const int &, const int &, const int &, const int &, int, int, int, int, const double, int &, const int &, const int &, const double, const double, int, const int &, const int &, const int &, int &, int &, int &, double &, double &, int)",
+                "name": "GaussianPanelRE_impl(rng<RNGTYPE> &, const int, int, int, const Matrix<int> &, const Matrix<int> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, int, int, int, int, const double, Matrix<> &, const Matrix<> &, const Matrix<> &, const double, const double, int, const Matrix<> &, const Matrix<> &, const Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, double &, double &, int)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cHMMpanelRE.cc",
                 "line": 80,
                 "column": 6,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#THMMpanelRE_impl#&>@N@scythe@ST>1#T@rng1t0.0#I#I#I#I#&1I#S3_#S3_#S3_#S3_#S3_#S3_#S3_#I#I#I#I#&I#d#S4_#S3_#S3_#1d#1d#I#S3_#S3_#S3_#S3_#S4_#S4_#S4_#S4_#S4_#S4_#&d#S5_#I#v#",
+                "usr": "c:@FT@>1#THMMpanelRE_impl#&>@N@scythe@ST>1#T@rng1t0.0#I#I#I#I#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#&1$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#S7_#S7_#S7_#S7_#S7_#I#I#I#I#&S8_#d#S9_#S7_#S7_#1d#1d#I#S7_#S7_#S7_#S7_#S9_#S9_#S9_#S9_#S9_#S9_#&d#S10_#I#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "HMMpanelRE_impl(rng<RNGTYPE> &, int, int, int, int, const int &, const int &, const int &, const int &, const int &, const int &, const int &, const int &, int, int, int, int, int &, double, int &, const int &, const int &, const double, const double, int, const int &, const int &, const int &, const int &, int &, int &, int &, int &, int &, int &, double &, double &, int)",
+                "name": "HMMpanelRE_impl(rng<RNGTYPE> &, int, int, int, int, const Matrix<int> &, const Matrix<int> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, int, int, int, int, Matrix<> &, double, Matrix<> &, const Matrix<> &, const Matrix<> &, const double, const double, int, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, double &, double &, int)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cHMMpanelRE.cc",
                 "line": 430,
                 "column": 6,
@@ -1428,7 +1428,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCSVDreg.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCSVDreg.cc@1160@macro@CMCMCSVDREG_CC",
@@ -1455,7 +1455,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCbinaryChange.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCbinaryChange.cc@434@macro@CMCMCBINARYCHANGE_CC",
@@ -1468,20 +1468,20 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tbinary_state_sampler#&>@N@scythe@ST>1#T@rng1t0.0#1I#&1I#S3_#S3_#I#",
+                "usr": "c:@FT@>1#Tbinary_state_sampler#&>@N@scythe@ST>1#T@rng1t0.0#1I#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#S3_#S4_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "binary_state_sampler(rng<RNGTYPE> &, const int, const int &, const int &, const int &)",
+                "name": "binary_state_sampler(rng<RNGTYPE> &, const int, const Matrix<> &, const Matrix<> &, const Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCbinaryChange.cc",
                 "line": 35,
                 "column": 10,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMCbinaryChange_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1I#&I#S4_#S3_#1d#1d#1d#I#I#I#I#b#S4_#S4_#S4_#S4_#&d#v#",
+                "usr": "c:@FT@>1#TMCMCbinaryChange_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&S4_#S7_#S3_#1d#1d#1d#I#I#I#I#b#S7_#S7_#S7_#S7_#&d#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMCbinaryChange_impl(rng<RNGTYPE> &, const int &, int &, int &, const int &, const double, const double, const double, int, int, int, int, bool, int &, int &, int &, int &, double &)",
+                "name": "MCMCbinaryChange_impl(rng<RNGTYPE> &, const Matrix<> &, Matrix<> &, Matrix<> &, const Matrix<> &, const double, const double, const double, int, int, int, int, bool, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, double &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCbinaryChange.cc",
                 "line": 102,
                 "column": 6,
@@ -1492,7 +1492,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCdynamicIRT1d-b.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCdynamicIRT1d-b.cc@448@macro@CMCMCDYNAMICIRT1DB_CC",
@@ -1529,7 +1529,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCdynamicIRT1d.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCdynamicIRT1d.cc@445@macro@CMCMCDYNAMICIRT1D_CC",
@@ -1566,7 +1566,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCfactanal.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCfactanal.cc@973@macro@CMCMCFACTANAL_CC",
@@ -1589,10 +1589,10 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMCfactanal_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1I#&I#S4_#S4_#S3_#S3_#S3_#S3_#S3_#S3_#i#i#i#i#i#S4_#v#",
+                "usr": "c:@FT@>1#TMCMCfactanal_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&S4_#S7_#S7_#S3_#S3_#S3_#S3_#S3_#S3_#i#i#i#i#i#S7_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMCfactanal_impl(rng<RNGTYPE> &, const int &, int &, int &, int &, const int &, const int &, const int &, const int &, const int &, const int &, unsigned int, unsigned int, unsigned int, unsigned int, unsigned int, int &)",
+                "name": "MCMCfactanal_impl(rng<RNGTYPE> &, const Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, unsigned int, unsigned int, unsigned int, unsigned int, unsigned int, Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCfactanal.cc",
                 "line": 51,
                 "column": 6,
@@ -1603,7 +1603,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMChlogit.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:@F@logit#d#",
@@ -1630,19 +1630,19 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMChpoisson.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [],
         "hidden": false
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMChregress.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [],
         "hidden": false
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCirt1d.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCirt1d.cc@654@macro@CMCMCIRT1D_CC",
@@ -1655,10 +1655,10 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMCirt1d_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1I#&I#S4_#S3_#S3_#S3_#S3_#d#d#i#i#i#i#b#b#*d#i#v#",
+                "usr": "c:@FT@>1#TMCMCirt1d_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#S7_#&1S8_#S9_#S9_#S9_#d#d#i#i#i#i#b#b#*d#i#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMCirt1d_impl(rng<RNGTYPE> &, const int &, int &, int &, const int &, const int &, const int &, const int &, double, double, unsigned int, unsigned int, unsigned int, unsigned int, bool, bool, double *, unsigned int)",
+                "name": "MCMCirt1d_impl(rng<RNGTYPE> &, const Matrix<int> &, Matrix<> &, Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, double, double, unsigned int, unsigned int, unsigned int, unsigned int, bool, bool, double *, unsigned int)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCirt1d.cc",
                 "line": 39,
                 "column": 6,
@@ -1669,7 +1669,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCirtHier1d.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCirtHier1d.cc@562@macro@CMCMCIRTHIER1D_CC",
@@ -1692,20 +1692,20 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tirt_W_update#&I#&1I#S1_#S1_#&1d#S2_#S2_#S1_#S1_#&>@N@scythe@ST>1#T@rng1t0.0#d#",
+                "usr": "c:@FT@>1#Tirt_W_update#&$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1S1_#S4_#S4_#&1d#S5_#S5_#S4_#S4_#&>@N@scythe@ST>1#T@rng1t0.0#d#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "irt_W_update(int &, const int &, const int &, const int &, const double &, const double &, const double &, const int &, const int &, rng<RNGTYPE> &)",
+                "name": "irt_W_update(Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const double &, const double &, const double &, const Matrix<> &, const Matrix<> &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCirtHier1d.cc",
                 "line": 49,
                 "column": 8,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMCirtHier1d_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1I#&I#S4_#S4_#S4_#S3_#S3_#S3_#S4_#S3_#S3_#1d#1d#i#i#i#i#b#b#*d#i#b#S5_#b#1d#1d#b#v#",
+                "usr": "c:@FT@>1#TMCMCirtHier1d_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#I#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#S7_#S7_#S7_#&1S8_#S9_#S9_#S7_#S9_#S9_#1d#1d#i#i#i#i#b#b#*d#i#b#S10_#b#1d#1d#b#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMCirtHier1d_impl(rng<RNGTYPE> &, const int &, int &, int &, int &, int &, const int &, const int &, const int &, int &, const int &, const int &, const double, const double, unsigned int, unsigned int, unsigned int, unsigned int, bool, bool, double *, unsigned int, bool, double *, bool, const double, const double, bool)",
+                "name": "MCMCirtHier1d_impl(rng<RNGTYPE> &, const Matrix<int> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, Matrix<> &, const Matrix<> &, const Matrix<> &, const double, const double, unsigned int, unsigned int, unsigned int, unsigned int, bool, bool, double *, unsigned int, bool, double *, bool, const double, const double, bool)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCirtHier1d.cc",
                 "line": 110,
                 "column": 6,
@@ -1716,7 +1716,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMClogit.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMClogit.cc@870@macro@CMCMCLOGIT_CC",
@@ -1729,20 +1729,20 @@
                 "hidden": false
             },
             {
-                "usr": "c:cMCMClogit.cc@F@logit_logpost#&1I#S0_#S0_#S0_#S0_#",
+                "usr": "c:cMCMClogit.cc@F@logit_logpost#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S0_#S0_#S0_#S0_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "logit_logpost(const int &, const int &, const int &, const int &, const int &)",
+                "name": "logit_logpost(const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMClogit.cc",
                 "line": 47,
                 "column": 1,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMClogit_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1I#S3_#S3_#&I#S3_#S3_#S3_#i#i#i#i#S4_#v#",
+                "usr": "c:@FT@>1#TMCMClogit_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#S3_#&S4_#S3_#S3_#S3_#i#i#i#i#S7_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMClogit_impl(rng<RNGTYPE> &, const int &, const int &, const int &, int &, const int &, const int &, const int &, unsigned int, unsigned int, unsigned int, unsigned int, int &)",
+                "name": "MCMClogit_impl(rng<RNGTYPE> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, unsigned int, unsigned int, unsigned int, unsigned int, Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMClogit.cc",
                 "line": 69,
                 "column": 1,
@@ -1753,7 +1753,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCnegbin.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCnegbin.cc@392@macro@CMCMCNEGBIN_CC",
@@ -1780,7 +1780,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCnegbinChange.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCnegbinChange.cc@437@macro@CMCMCNEGBINCHANGE_CC",
@@ -1793,10 +1793,10 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tnegbin_reg_state_sampler#&>@N@scythe@ST>1#T@rng1t0.0#1I#&1I#S3_#S3_#S3_#S3_#&d#S3_#$@S@hmm_state#",
+                "usr": "c:@FT@>1#Tnegbin_reg_state_sampler#&>@N@scythe@ST>1#T@rng1t0.0#1I#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#S3_#S3_#S3_#&d#&1I#$@S@hmm_state#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "negbin_reg_state_sampler(rng<RNGTYPE> &, const int, const int &, const int &, const int &, const int &, const int &, double &, const int &)",
+                "name": "negbin_reg_state_sampler(rng<RNGTYPE> &, const int, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, double &, const int &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCnegbinChange.cc",
                 "line": 42,
                 "column": 11,
@@ -1817,7 +1817,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCoprobit.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCoprobit.cc@1080@macro@CMCMCOPROBIT_CC",
@@ -1830,50 +1830,50 @@
                 "hidden": false
             },
             {
-                "usr": "c:cMCMCoprobit.cc@F@lnmulttdens#&1I#S0_#S0_#1d#",
+                "usr": "c:cMCMCoprobit.cc@F@lnmulttdens#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S0_#S0_#1d#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "lnmulttdens(const int &, const int &, const int &, const double)",
+                "name": "lnmulttdens(const Matrix<> &, const Matrix<> &, const Matrix<> &, const double)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCoprobit.cc",
                 "line": 53,
                 "column": 22,
                 "hidden": false
             },
             {
-                "usr": "c:@F@gamma2alpha#&1I#",
+                "usr": "c:@F@gamma2alpha#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "gamma2alpha(const int &)",
+                "name": "gamma2alpha(const Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCoprobit.cc",
                 "line": 71,
                 "column": 10,
                 "hidden": false
             },
             {
-                "usr": "c:@F@alpha2gamma#&1I#",
+                "usr": "c:@F@alpha2gamma#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "alpha2gamma(const int &)",
+                "name": "alpha2gamma(const Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCoprobit.cc",
                 "line": 82,
                 "column": 10,
                 "hidden": false
             },
             {
-                "usr": "c:@F@lndmvn_jhp#&1I#S0_#S0_#",
+                "usr": "c:@F@lndmvn_jhp#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S0_#S0_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "lndmvn_jhp(const int &, const int &, const int &)",
+                "name": "lndmvn_jhp(const Matrix<double> &, const Matrix<double> &, const Matrix<double> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCoprobit.cc",
                 "line": 97,
                 "column": 8,
                 "hidden": false
             },
             {
-                "usr": "c:cMCMCoprobit.cc@F@oprobit_logpost#&1I#S0_#S0_#S0_#S0_#S0_#",
+                "usr": "c:cMCMCoprobit.cc@F@oprobit_logpost#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S0_#S0_#S0_#S0_#S0_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "oprobit_logpost(const int &, const int &, const int &, const int &, const int &, const int &)",
+                "name": "oprobit_logpost(const Matrix<double> &, const Matrix<double> &, const Matrix<double> &, const Matrix<double> &, const Matrix<double> &, const Matrix<double> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCoprobit.cc",
                 "line": 109,
                 "column": 22,
@@ -1890,20 +1890,20 @@
                 "hidden": false
             },
             {
-                "usr": "c:@S@oprobitModel@F@operator()#1I#",
+                "usr": "c:@S@oprobitModel@F@operator()#1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#",
                 "kind": 7,
                 "parent_name": "oprobitModel",
-                "name": "operator(const int)",
+                "name": "operator(const Matrix<double>)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCoprobit.cc",
                 "line": 158,
                 "column": 10,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMCoprobit_impl#&>@N@scythe@ST>1#T@rng1t0.0#*1I#&1I#S4_#&I#S5_#S4_#S4_#S4_#S4_#1i#1i#1i#1i#S4_#1d#1i#S5_#v#",
+                "usr": "c:@FT@>1#TMCMCoprobit_impl#&>@N@scythe@ST>1#T@rng1t0.0#*1I#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S4_#&S5_#S8_#S4_#S4_#S4_#S4_#1i#1i#1i#1i#S4_#1d#1i#S8_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMCoprobit_impl(rng<RNGTYPE> &, const int *, const int &, const int &, int &, int &, const int &, const int &, const int &, const int &, const unsigned int, const unsigned int, const unsigned int, const unsigned int, const int &, const double, const unsigned int, int &)",
+                "name": "MCMCoprobit_impl(rng<RNGTYPE> &, const int *, const Matrix<> &, const Matrix<> &, Matrix<> &, Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const unsigned int, const unsigned int, const unsigned int, const unsigned int, const Matrix<> &, const double, const unsigned int, Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCoprobit.cc",
                 "line": 199,
                 "column": 6,
@@ -1914,7 +1914,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCoprobitChange.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCoprobitChange.cc@468@macro@CMCMCOPROBITCHANGE_CC",
@@ -1937,40 +1937,40 @@
                 "hidden": false
             },
             {
-                "usr": "c:cMCMCoprobitChange.cc@F@oprobit_pdfLX#1I#1I#d#&1I#",
+                "usr": "c:cMCMCoprobitChange.cc@F@oprobit_pdfLX#1I#1I#d#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "oprobit_pdfLX(const int, const int, double, const int &)",
+                "name": "oprobit_pdfLX(const int, const int, double, const Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCoprobitChange.cc",
                 "line": 56,
                 "column": 15,
                 "hidden": false
             },
             {
-                "usr": "c:cMCMCoprobitChange.cc@F@oprobit_log_postLX#I#1I#&1I#S0_#S0_#S0_#S0_#S0_#1I#",
+                "usr": "c:cMCMCoprobitChange.cc@F@oprobit_log_postLX#I#1I#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S0_#S0_#S0_#S0_#S0_#1I#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "oprobit_log_postLX(int, const int, const int &, const int &, const int &, const int &, const int &, const int &, const int)",
+                "name": "oprobit_log_postLX(int, const int, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const int)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCoprobitChange.cc",
                 "line": 76,
                 "column": 15,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tgaussian_ordinal_state_sampler_fixedsigma#&>@N@scythe@ST>1#T@rng1t0.0#1I#&1I#S3_#S3_#S3_#S3_#I#",
+                "usr": "c:@FT@>1#Tgaussian_ordinal_state_sampler_fixedsigma#&>@N@scythe@ST>1#T@rng1t0.0#1I#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#S3_#S3_#S3_#S4_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "gaussian_ordinal_state_sampler_fixedsigma(rng<RNGTYPE> &, const int, const int &, const int &, const int &, const int &, const int &)",
+                "name": "gaussian_ordinal_state_sampler_fixedsigma(rng<RNGTYPE> &, const int, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCoprobitChange.cc",
                 "line": 150,
                 "column": 10,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMCoprobitChange_impl#&>@N@scythe@ST>1#T@rng1t0.0#1I#1I#&1I#S3_#&I#S4_#S4_#S4_#S4_#S4_#S4_#S3_#I#I#I#I#S3_#b#b#S4_#S4_#S4_#S4_#S4_#S4_#S4_#&d#S5_#v#",
+                "usr": "c:@FT@>1#TMCMCoprobitChange_impl#&>@N@scythe@ST>1#T@rng1t0.0#1I#1I#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#&S4_#S7_#S7_#S7_#S7_#S7_#S7_#S3_#I#I#I#I#S3_#b#b#S7_#S7_#S7_#S7_#S7_#S7_#&$@N@scythe@S@Matrix>#I#VS5_0#VS6_0#&d#S10_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMCoprobitChange_impl(rng<RNGTYPE> &, const int, const int, const int &, const int &, int &, int &, int &, int &, int &, int &, int &, const int &, int, int, int, int, const int &, bool, bool, int &, int &, int &, int &, int &, int &, int &, double &, double &)",
+                "name": "MCMCoprobitChange_impl(rng<RNGTYPE> &, const int, const int, const Matrix<> &, const Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, const Matrix<> &, int, int, int, int, const Matrix<> &, bool, bool, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<int> &, double &, double &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCoprobitChange.cc",
                 "line": 216,
                 "column": 6,
@@ -1981,7 +1981,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpaircompare.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCpaircompare.cc@435@macro@MCMCPAIRCOMPARE_CC",
@@ -1994,10 +1994,10 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMCpaircompare_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1I#&I#S4_#S3_#S3_#1d#1d#1I#1i#1i#1i#1i#1b#1b#*d#1i#v#",
+                "usr": "c:@FT@>1#TMCMCpaircompare_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#i#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#S7_#&1S8_#S9_#1d#1d#1I#1i#1i#1i#1i#1b#1b#*d#1i#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMCpaircompare_impl(rng<RNGTYPE> &, const int &, int &, int &, const int &, const int &, const double, const double, const int, const unsigned int, const unsigned int, const unsigned int, const unsigned int, const bool, const bool, double *, const unsigned int)",
+                "name": "MCMCpaircompare_impl(rng<RNGTYPE> &, const Matrix<unsigned int> &, Matrix<> &, Matrix<> &, const Matrix<> &, const Matrix<> &, const double, const double, const int, const unsigned int, const unsigned int, const unsigned int, const unsigned int, const bool, const bool, double *, const unsigned int)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpaircompare.cc",
                 "line": 36,
                 "column": 6,
@@ -2008,7 +2008,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpaircompare2d.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCpaircompare2d.cc@437@macro@MCMCPAIRCOMPARE2D_CC",
@@ -2021,40 +2021,40 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tpaircompare2d_Ystar_update#&I#&1I#S1_#S1_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#Tpaircompare2d_Ystar_update#&$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1$@N@scythe@S@Matrix>#i#VS2_0#VS3_0#&1S1_#S6_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "paircompare2d_Ystar_update(int &, const int &, const int &, const int &, rng<RNGTYPE> &)",
+                "name": "paircompare2d_Ystar_update(Matrix<> &, const Matrix<unsigned int> &, const Matrix<> &, const Matrix<> &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpaircompare2d.cc",
                 "line": 38,
                 "column": 6,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tpaircompare2d_theta_update#&I#&1I#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#Tpaircompare2d_theta_update#&$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1S1_#&1$@N@scythe@S@Matrix>#i#VS2_0#VS3_0#S4_#S5_#S4_#S4_#&1$@N@std@N@__1@S@vector>#$@N@std@N@__1@S@vector>#*d#$@N@std@N@__1@S@allocator>#S10_#$@N@std@N@__1@S@allocator>#S9_#S7_#&1$@N@std@N@__1@S@vector>#S8_#$@N@std@N@__1@S@allocator>#S8_#&1$@N@std@N@__1@S@vector>#$@N@std@N@__1@S@vector>#d#$@N@std@N@__1@S@allocator>#d#$@N@std@N@__1@S@allocator>#S18_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "paircompare2d_theta_update(int &, const int &, const int &, const int &, const int &, const int &, const int &, const int &, const int &, const int &, const int &, rng<RNGTYPE> &)",
+                "name": "paircompare2d_theta_update(Matrix<> &, const Matrix<> &, const Matrix<unsigned int> &, const Matrix<> &, const Matrix<unsigned int> &, const Matrix<> &, const Matrix<> &, const vector<vector<double *>> &, const vector<vector<double *>> &, const vector<vector<vector<double *>>> &, const vector<vector<double>> &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpaircompare2d.cc",
                 "line": 69,
                 "column": 6,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tpaircompare2d_gamma_update#&I#&1I#S1_#S1_#S1_#&1d#S0_#S0_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#Tpaircompare2d_gamma_update#&$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1$@N@scythe@S@Matrix>#i#VS2_0#VS3_0#&1$@N@std@N@__1@S@vector>#$@N@std@N@__1@S@vector>#*d#$@N@std@N@__1@S@allocator>#S9_#$@N@std@N@__1@S@allocator>#S8_#&1$@N@std@N@__1@S@vector>#S7_#$@N@std@N@__1@S@allocator>#S7_#S12_#&1d#&$@N@std@N@__1@S@vector>#d#$@N@std@N@__1@S@allocator>#d#S16_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "paircompare2d_gamma_update(int &, const int &, const int &, const int &, const int &, const double &, int &, int &, rng<RNGTYPE> &)",
+                "name": "paircompare2d_gamma_update(Matrix<> &, const Matrix<unsigned int> &, const vector<vector<double *>> &, const vector<vector<vector<double *>>> &, const vector<vector<vector<double *>>> &, const double &, vector<double> &, vector<double> &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpaircompare2d.cc",
                 "line": 187,
                 "column": 6,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMCpaircompare2d_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1I#&I#S4_#S3_#S3_#1d#1i#1i#1i#1i#1b#1b#*d#1i#S5_#v#",
+                "usr": "c:@FT@>1#TMCMCpaircompare2d_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#i#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#S7_#&1S8_#S9_#1d#1i#1i#1i#1i#1b#1b#*d#1i#S10_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMCpaircompare2d_impl(rng<RNGTYPE> &, const int &, int &, int &, const int &, const int &, const double, const unsigned int, const unsigned int, const unsigned int, const unsigned int, const bool, const bool, double *, const unsigned int, double *)",
+                "name": "MCMCpaircompare2d_impl(rng<RNGTYPE> &, const Matrix<unsigned int> &, Matrix<> &, Matrix<> &, const Matrix<> &, const Matrix<> &, const double, const unsigned int, const unsigned int, const unsigned int, const unsigned int, const bool, const bool, double *, const unsigned int, double *)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpaircompare2d.cc",
                 "line": 235,
                 "column": 6,
@@ -2065,7 +2065,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpaircompare2dDP.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCpaircompare2dDP.cc@439@macro@MCMCPAIRCOMPARE2DDP_CC",
@@ -2078,90 +2078,90 @@
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tpaircompare2dDP_Ystar_update#&I#&1I#S1_#S1_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#Tpaircompare2dDP_Ystar_update#&$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1$@N@scythe@S@Matrix>#i#VS2_0#VS3_0#&1S1_#S6_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "paircompare2dDP_Ystar_update(int &, const int &, const int &, const int &, rng<RNGTYPE> &)",
+                "name": "paircompare2dDP_Ystar_update(Matrix<> &, const Matrix<unsigned int> &, const Matrix<> &, const Matrix<> &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpaircompare2dDP.cc",
                 "line": 38,
                 "column": 6,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tpaircompare2dDP_theta_update#&I#&1I#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#S1_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#Tpaircompare2dDP_theta_update#&$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1S1_#&1$@N@scythe@S@Matrix>#i#VS2_0#VS3_0#S4_#S5_#S4_#S4_#&1$@N@std@N@__1@S@vector>#$@N@std@N@__1@S@vector>#*d#$@N@std@N@__1@S@allocator>#S10_#$@N@std@N@__1@S@allocator>#S9_#S7_#&1$@N@std@N@__1@S@vector>#S8_#$@N@std@N@__1@S@allocator>#S8_#&1$@N@std@N@__1@S@vector>#$@N@std@N@__1@S@vector>#d#$@N@std@N@__1@S@allocator>#d#$@N@std@N@__1@S@allocator>#S18_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "paircompare2dDP_theta_update(int &, const int &, const int &, const int &, const int &, const int &, const int &, const int &, const int &, const int &, const int &, rng<RNGTYPE> &)",
+                "name": "paircompare2dDP_theta_update(Matrix<> &, const Matrix<> &, const Matrix<unsigned int> &, const Matrix<> &, const Matrix<unsigned int> &, const Matrix<> &, const Matrix<> &, const vector<vector<double *>> &, const vector<vector<double *>> &, const vector<vector<vector<double *>>> &, const vector<vector<double>> &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpaircompare2dDP.cc",
                 "line": 69,
                 "column": 6,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tpaircompare2dDP_cluster_gamma_update#&1I#S0_#S0_#S0_#&1d#&1i#&I#S3_#S3_#S3_#S3_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#Tpaircompare2dDP_cluster_gamma_update#&1$@N@scythe@S@Matrix>#i#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1$@N@std@N@__1@S@vector>#$@N@std@N@__1@S@vector>#*d#$@N@std@N@__1@S@allocator>#S7_#$@N@std@N@__1@S@allocator>#S6_#&1$@N@std@N@__1@S@vector>#S5_#$@N@std@N@__1@S@allocator>#S5_#S10_#&1d#&1i#&$@N@std@N@__1@S@vector>#d#$@N@std@N@__1@S@allocator>#d#S15_#&$@N@std@N@__1@S@vector>#i#$@N@std@N@__1@S@allocator>#i#S15_#S18_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "paircompare2dDP_cluster_gamma_update(const int &, const int &, const int &, const int &, const double &, const unsigned int &, int &, int &, int &, int &, int &, rng<RNGTYPE> &)",
+                "name": "paircompare2dDP_cluster_gamma_update(const Matrix<unsigned int> &, const vector<vector<double *>> &, const vector<vector<vector<double *>>> &, const vector<vector<vector<double *>>> &, const double &, const unsigned int &, vector<double> &, vector<double> &, vector<unsigned int> &, vector<double> &, vector<unsigned int> &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpaircompare2dDP.cc",
                 "line": 186,
                 "column": 6,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tpaircompare2dDP_cluster_weight_log_update#&I#S0_#&1d#&1i#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#Tpaircompare2dDP_cluster_weight_log_update#&$@N@std@N@__1@S@vector>#d#$@N@std@N@__1@S@allocator>#d#&$@N@std@N@__1@S@vector>#i#$@N@std@N@__1@S@allocator>#i#&1d#&1i#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "paircompare2dDP_cluster_weight_log_update(int &, int &, const double &, const unsigned int &, rng<RNGTYPE> &)",
+                "name": "paircompare2dDP_cluster_weight_log_update(vector<double> &, vector<unsigned int> &, const double &, const unsigned int &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpaircompare2dDP.cc",
                 "line": 254,
                 "column": 6,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TSampleOneEqualLikelihood#I#&I#&>@N@scythe@ST>1#T@rng1t0.0#i#",
+                "usr": "c:@FT@>1#TSampleOneEqualLikelihood#I#&$@N@std@N@__1@S@vector>#i#$@N@std@N@__1@S@allocator>#i#&>@N@scythe@ST>1#T@rng1t0.0#i#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "SampleOneEqualLikelihood(int, int &, rng<RNGTYPE> &)",
+                "name": "SampleOneEqualLikelihood(int, vector<unsigned int> &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpaircompare2dDP.cc",
                 "line": 296,
                 "column": 14,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TProbSamp#&1I#S0_#&1i#&>@N@scythe@ST>1#T@rng1t0.0#I#",
+                "usr": "c:@FT@>1#TProbSamp#&1$@N@std@N@__1@S@vector>#i#$@N@std@N@__1@S@allocator>#i#&1$@N@std@N@__1@S@vector>#d#$@N@std@N@__1@S@allocator>#d#&1i#&>@N@scythe@ST>1#T@rng1t0.0#I#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "ProbSamp(const int &, const int &, const unsigned int &, rng<RNGTYPE> &)",
+                "name": "ProbSamp(const vector<unsigned int> &, const vector<double> &, const unsigned int &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpaircompare2dDP.cc",
                 "line": 312,
                 "column": 5,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tpaircompare2dDP_judge_cluster_membership_update#&1I#S0_#S0_#S0_#&I#S1_#S1_#S1_#S0_#&i#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#Tpaircompare2dDP_judge_cluster_membership_update#&1$@N@scythe@S@Matrix>#i#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&1$@N@std@N@__1@S@vector>#$@N@std@N@__1@S@vector>#*d#$@N@std@N@__1@S@allocator>#S7_#$@N@std@N@__1@S@allocator>#S6_#&1$@N@std@N@__1@S@vector>#S5_#$@N@std@N@__1@S@allocator>#S5_#S10_#&$@N@std@N@__1@S@vector>#i#$@N@std@N@__1@S@allocator>#i#&$@N@std@N@__1@S@vector>#d#$@N@std@N@__1@S@allocator>#d#S16_#S13_#&1S14_#&i#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "paircompare2dDP_judge_cluster_membership_update(const int &, const int &, const int &, const int &, int &, int &, int &, int &, const int &, unsigned int &, rng<RNGTYPE> &)",
+                "name": "paircompare2dDP_judge_cluster_membership_update(const Matrix<unsigned int> &, const vector<vector<double *>> &, const vector<vector<vector<double *>>> &, const vector<vector<vector<double *>>> &, vector<unsigned int> &, vector<double> &, vector<double> &, vector<unsigned int> &, const vector<unsigned int> &, unsigned int &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpaircompare2dDP.cc",
                 "line": 330,
                 "column": 6,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#Tpaircompare2dDP_alpha_update#&I#&d#&1i#&1d#S3_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
+                "usr": "c:@FT@>1#Tpaircompare2dDP_alpha_update#&$@N@std@N@__1@S@vector>#d#$@N@std@N@__1@S@allocator>#d#&d#&1i#&1d#S5_#&>@N@scythe@ST>1#T@rng1t0.0#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "paircompare2dDP_alpha_update(int &, double &, const unsigned int &, const double &, const double &, rng<RNGTYPE> &)",
+                "name": "paircompare2dDP_alpha_update(vector<double> &, double &, const unsigned int &, const double &, const double &, rng<RNGTYPE> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpaircompare2dDP.cc",
                 "line": 423,
                 "column": 6,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMCpaircompare2dDP_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1I#&I#S4_#S4_#S4_#S3_#S3_#1d#1i#1i#1i#1i#1i#1b#1b#*d#1i#S5_#d#1i#1I#1d#1d#v#",
+                "usr": "c:@FT@>1#TMCMCpaircompare2dDP_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#i#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#&$@N@scythe@S@Matrix>#d#VS5_0#VS6_0#S7_#S7_#&S4_#&1S8_#S10_#1d#1i#1i#1i#1i#1i#1b#1b#*d#1i#S11_#d#1i#1I#1d#1d#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMCpaircompare2dDP_impl(rng<RNGTYPE> &, const int &, int &, int &, int &, int &, const int &, const int &, const double, const unsigned int, const unsigned int, const unsigned int, const unsigned int, const unsigned int, const bool, const bool, double *, const unsigned int, double *, double, const unsigned int, const int, const double, const double)",
+                "name": "MCMCpaircompare2dDP_impl(rng<RNGTYPE> &, const Matrix<unsigned int> &, Matrix<> &, Matrix<> &, Matrix<> &, Matrix<unsigned int> &, const Matrix<> &, const Matrix<> &, const double, const unsigned int, const unsigned int, const unsigned int, const unsigned int, const unsigned int, const bool, const bool, double *, const unsigned int, double *, double, const unsigned int, const int, const double, const double)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpaircompare2dDP.cc",
                 "line": 446,
                 "column": 6,
@@ -2172,7 +2172,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpoisson.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCpoisson.cc@913@macro@CMCMCPOISSON_CC",
@@ -2185,20 +2185,20 @@
                 "hidden": false
             },
             {
-                "usr": "c:cMCMCpoisson.cc@F@poisson_logpost#&1I#S0_#S0_#S0_#S0_#",
+                "usr": "c:cMCMCpoisson.cc@F@poisson_logpost#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S0_#S0_#S0_#S0_#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "poisson_logpost(const int &, const int &, const int &, const int &, const int &)",
+                "name": "poisson_logpost(const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpoisson.cc",
                 "line": 49,
                 "column": 15,
                 "hidden": false
             },
             {
-                "usr": "c:@FT@>1#TMCMCpoisson_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1I#S3_#S3_#&I#S3_#S3_#S3_#i#i#i#i#S4_#v#",
+                "usr": "c:@FT@>1#TMCMCpoisson_impl#&>@N@scythe@ST>1#T@rng1t0.0#&1$@N@scythe@S@Matrix>#d#V$@N@scythe@E@matrix_order0#V$@N@scythe@E@matrix_style0#S3_#S3_#&S4_#S3_#S3_#S3_#i#i#i#i#S7_#v#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "MCMCpoisson_impl(rng<RNGTYPE> &, const int &, const int &, const int &, int &, const int &, const int &, const int &, unsigned int, unsigned int, unsigned int, unsigned int, int &)",
+                "name": "MCMCpoisson_impl(rng<RNGTYPE> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, Matrix<> &, const Matrix<> &, const Matrix<> &, const Matrix<> &, unsigned int, unsigned int, unsigned int, unsigned int, Matrix<> &)",
                 "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpoisson.cc",
                 "line": 76,
                 "column": 6,
@@ -2209,7 +2209,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCpoissonChange.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCpoissonChange.cc@536@macro@CMCMCPOISSONCHANGE_CC",
@@ -2276,7 +2276,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCprobit.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCprobit.cc@909@macro@CMCMCPROBIT_CC",
@@ -2303,7 +2303,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCprobitChange.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCprobitChange.cc@486@macro@CMCMCPROBITCHANGE_CC",
@@ -2340,7 +2340,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCprobitres.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCprobitres.cc@952@macro@MCMCPROBITRES_CC",
@@ -2367,7 +2367,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCquantreg.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCquantreg.cc@1075@macro@CMCMCQUANTREG_CC",
@@ -2394,7 +2394,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCregress.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCregress.cc@1294@macro@CMCMCREGRESS_CC",
@@ -2431,7 +2431,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCregressChange.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCregressChange.cc@429@macro@CMCMCREGRESSCHANGE_CC",
@@ -2488,7 +2488,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCresidualBreakAnalysis.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCresidualBreakAnalysis.cc@383@macro@CMCMCRESIDUALBREAKANALYSIS_CC",
@@ -2535,7 +2535,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cMCMCtobit.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cMCMCtobit.cc@1267@macro@CMCMCTOBIT_CC",
@@ -2562,7 +2562,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/cSSVSquantreg.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:cSSVSquantreg.cc@934@macro@CSSVSQUANTREG_CC",
@@ -2609,7 +2609,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/datablock.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:datablock.h@aN@T@uint",
@@ -2816,7 +2816,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/defs.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:defs.h@6459@macro@SCYTHE_VIEW_RETURN",
@@ -2953,7 +2953,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/distributions.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:distributions.h@4159@macro@M_LN_SQRT_2PI",
@@ -3600,7 +3600,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/error.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:error.h@2895@macro@SCYTHE_DEBUG_MSG",
@@ -3947,7 +3947,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/ide.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:matrix_random_access_iterator.h@aN@T@uint",
@@ -4204,7 +4204,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/la.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:matrix_random_access_iterator.h@aN@T@uint",
@@ -4681,7 +4681,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/lapack.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:@N@scythe@N@lapack@F@make_symmetric#*d#I#",
@@ -4698,7 +4698,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/lecuyer.cc",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:lecuyer.cc@34@macro@SCYTHE_LECUYER_CC",
@@ -4715,7 +4715,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/lecuyer.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:lecuyer.h@2824@macro@SCYTHE_MINGW32_STATIC",
@@ -4962,7 +4962,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/matrix.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:matrix.h@147662@macro@SCYTHE_BINARY_OPERATOR_DMM",
@@ -6609,7 +6609,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/matrix_bidirectional_iterator.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:matrix_random_access_iterator.h@aN@T@uint",
@@ -6956,7 +6956,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/matrix_forward_iterator.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:matrix_random_access_iterator.h@aN@T@uint",
@@ -7273,7 +7273,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/matrix_random_access_iterator.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:algorithm.h@aN@T@uint",
@@ -7770,7 +7770,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/mersenne.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:@N@scythe@S@mersenne",
@@ -7837,7 +7837,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/optimize.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:optimize.h@2829@macro@SCYTHE_MINGW32_STATIC",
@@ -8044,7 +8044,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/rng.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:rng.h@1830@macro@SCYTHE_RNGMETH_MATRIX",
@@ -8411,7 +8411,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/rtmvnorm.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:@N@scythe@ST>1#T@rtmvnorm",
@@ -8468,7 +8468,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/smath.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:smath.h@1996@macro@SCYTHE_MATH_OP",
@@ -8545,7 +8545,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/stat.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:stat.h@1711@macro@SCYTHE_STATMETH_COL",
@@ -8742,7 +8742,7 @@
     },
     {
         "file": "/Users/jianingyao/Desktop/School/JHU/PhD/Courses/Year2_term2/PH.140.777.01-Statistical_Programming/Projects/Project3/Part1/MCMCpack-master/src/wrapped_generator.h",
-        "file_last_write": 1649844752.0,
+        "file_last_write": 1702346933.0,
         "definitions": [
             {
                 "usr": "c:@N@scythe@ST>1#T@wrapped_generator",
