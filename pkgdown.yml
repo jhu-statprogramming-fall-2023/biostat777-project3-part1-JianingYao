@@ -1,7 +1,7 @@
-pandoc: 3.1.1
+pandoc: 2.19.2
 pkgdown: 2.0.7
 pkgdown_sha: ~
 articles:
   Demonstration: Demonstration.html
-last_built: 2023-12-12T02:43Z
+last_built: 2023-12-12T02:50Z
 
