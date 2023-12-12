@@ -4,7 +4,7 @@
 ### Website basics
 
 - Package source: https://github.com/cran/MCMCpack
-- Package website: 
+- Package website: https://jhu-statprogramming-fall-2023.github.io/biostat777-project3-part1-JianingYao/
 - Customized `pkgdown` components:
   - Change website theme to `lux` and set the navigation bar height to 100 pixels.
   - Specify a font for displaying code and set primary color theme (e.g, hyperlink and mousehover color) to bronze.
