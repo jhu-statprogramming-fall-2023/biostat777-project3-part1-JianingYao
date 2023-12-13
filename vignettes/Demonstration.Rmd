@@ -20,7 +20,7 @@ This vignette demonstrates the usage of `MCMCpack` on a `TidyTuesday` dataset.
 
 **Data**: The Broadway Weekly Grosses data can be obtained from [TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-04-28/readme.md). 
 
-**Question**: This data contains information about weekly box office grosses, attendance, ticket prices of shows presented in Broadway theatres. What factors will impact weekly box office revenues, e.g., ticket price, attendance, time of the year?
+**Question**: This data contains information about weekly box office grosses, attendance, ticket prices of shows presented in Broadway theatres. What factors (e.g., ticket price, attendance, time of the year) will impact weekly box office revenues?
 
 **Data dictionary**: The data dictionary can be obtained [here](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-04-28/readme.md).
 
@@ -57,72 +57,81 @@ load("../data/cpi.rda")
 
 **First, I selected data after year 2010 and created a dummy variable to indicate whether the record is in holiday months (December or January).**
 
-```{r}
+```{r message=FALSE}
 library(dplyr)
 library(lubridate)
 library(purrr)
 library(ggplot2)
+library(tidyr)
+library(stringr)
+library(scales)
+library(MCMCpack)
+```
 
+```{r}
 df <- grosses %>%
   mutate(year = year(week_ending),
          month = month(week_ending),
          is_dec_or_jan = ifelse(month %in% c(12, 1), 1, 0)) %>%
-  select(-week_number, -performances, -previews, -seats_sold, -seats_in_theatre, 
+  dplyr::select(-week_number, -performances, -previews, -seats_sold, -seats_in_theatre, 
          -potential_gross, -top_ticket_price, -show) %>%
   filter(year >= 2010, complete.cases(.)) %>%
   mutate(theatre = as.factor(theatre))
-
 ```
+
 
 **The plot below shows the trend of weekly gross from 2010 to 2020.**
 
 ```{r fig.width=7, fig.height=5}
 ggplot(df, aes(x = week_ending, y = weekly_gross_overall/100000)) +
   geom_line() + 
-  labs(title = "Weekly Gross Over Time (per $100, 000)",
-       x = "Week Ending",
-       y = "Weekly Gross Overall (per $100, 000)",
+  labs(title = "Weekly Box Office Gross Over Time (per $100, 000)",
+       subtitle = "Overall Weekly Broadway earnings from 2010 to 2020",
+       x = "Week in each year",
+       y = "Weekly Gross (per $100, 000)",
        caption = "Data Source: Broadway Grosses") +
   scale_x_date(date_breaks = "1 year", date_labels = "%Y") +
   theme_minimal()
 ```
 
-**The figure below shows the mean of weekly box office gross, average ticket price, and percent of theatre capacity for individual shows from 2010 to 2020.**
+**The figure below shows the mean of weekly box office gross, average ticket price, and percent of theatre capacity for individual Broadway theatres from 2010 to 2020.**
 
 ```{r fig.width=7, fig.height=5}
-library(tidyr)
 df_theatre <- df %>%
-  select(theatre, weekly_gross, avg_ticket_price, pct_capacity) %>%
+  dplyr::select(theatre, weekly_gross, avg_ticket_price, pct_capacity) %>%
   split(.$theatre)
-means <- map_dfr(df_theatre, ~ colMeans(select(.x, -1), na.rm = TRUE), .id = "theatre") %>%
+means <- map_dfr(df_theatre, ~ colMeans(dplyr::select(.x, -1), na.rm = TRUE), .id = "theatre") %>%
   arrange(desc(weekly_gross))
 
 means_long <- means %>%
   pivot_longer(-theatre, names_to = "Metric", values_to = "value") %>%
   mutate(Metric = recode(Metric,
-                         weekly_gross = "Weekly Gross",
-                         avg_ticket_price = "Average Ticket Price",
-                         pct_capacity = "Percent Capacity"))
+                         weekly_gross = "Weekly Gross (in dollars)",
+                         avg_ticket_price = "Average Ticket Price (in dollars)",
+                         pct_capacity = "Percent Capacity (%)"), 
+         value = ifelse(Metric == "Percent Capacity (%)", value * 100, value),
+         theatre = str_remove(theatre, " Theatre")) 
 
 ggplot(means_long, aes(x = theatre, y = value, fill = Metric)) +
   geom_bar(stat = "identity", position = position_dodge()) +
   facet_wrap(~ Metric, scales = "free_y", nrow = 3) +
-  labs(title = "Mean Theatre Metrics", x = "Theatres", y = "Value") +
-  theme(
-    axis.text.x = element_blank(),  
-    axis.ticks.x = element_blank(),  
-    legend.position = "bottom"
-  ) 
+  labs(title = "Mean Theatre Metrics", 
+       x = "Theatres", 
+       y = "Value",
+       subtitle = "Mean of Broadway theatre metrics across 2010 to 2020 by individual theatre",
+       caption = "Data Source: Broadway Grosses") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1, size = 6),
+        axis.ticks.x = element_blank(),
+        legend.position = "bottom")
 
 ```
 
 ### Try out `MCMCpack`
 
-**Next, I tried out Bayesian linear regression using Markov Chain Monte Carlo sampling algorithm with three predictors: average ticket price, percent of theatre capacity, and whether happens in holiday months. Weak priors are used for beta and sigma^2. Sub-models are also fitted and compared with the full model based on Bayes factor to select the best model.** 
+**Next, I tried out Bayesian linear regression using Markov Chain Monte Carlo sampling algorithm with three predictors: average ticket price, percent of theatre capacity, and whether happens in holiday months. I excluded theatre as a predictor in the model for the simplicity of demonstration; otherwise, I will use a hierarchical Bayesian linear regression model. Weak priors are used for beta and sigma^2. Sub-models are also fitted and compared with the full model based on Bayes factor to select the best model.** 
 
 ```{r setup}
-library(MCMCpack)
-
 numeric_predictors <- c("avg_ticket_price", "pct_capacity")
 df_bayes <- df %>%
   modify_at(vars(one_of(numeric_predictors)), ~ as.vector(scale(.)))
@@ -184,9 +193,13 @@ df_bayes$fitted <- estimates$`(Intercept)` +
 ggplot(data = df_bayes, aes(x = weekly_gross, y = fitted)) +
   geom_point() +
   geom_abline(slope = 1, intercept = 0, color = "blue", linetype = "dashed") +
-  labs(title = "True value of weekly gross against fitted using Bayesian estimated coefficients", 
+  labs(title = "True value of weekly gross against the fitted using Bayesian approach",
+       subtitle = "Comparison of actual gross revenues and Bayesian model predictions", 
        x = "True value", 
-       y = "Fitted value") +
+       y = "Fitted value",
+       caption = "Dashed line represents the identity line where the true values equal the fitted values.") +
+  scale_x_continuous(labels = label_dollar()) +
+  scale_y_continuous(labels = label_dollar()) +
   theme_minimal()
 
 ```
@@ -200,6 +213,7 @@ From this simple analysis, average ticket price, percentage of theatre capacity 
   - `dplyr`: `mutate()`, `select()`, `filter()`, `arrange()`, `recode()`
   - `tidyr`: `pivot_longer()`
   - `lubridate`: `year()`, `month()`
+  - `stringr`: `str_remove()`
 - purr: `map_dfr()`, `modify_at()`, `map()`
 - Plot: `geom_line()`, `geom_bar()`, `geom_point()`, `geom_abline()`, `facet_wrap()`
 - Package: `MCMCregress()`, `BayesFactor()`, `PostProbMod()`

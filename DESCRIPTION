@@ -32,6 +32,8 @@ Suggests:
     lubridate,
     purrr,
     ggplot2,
-    tidyr
+    tidyr,
+    scales,
+    stringr
 VignetteBuilder: knitr
 LazyData: true
